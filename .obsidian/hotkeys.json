@@ -1,0 +1,8 @@
+{
+  "editor:toggle-bold": [{"modifiers": ["Mod"], "key": "B"}],
+  "editor:toggle-italics": [{"modifiers": ["Mod"], "key": "I"}],
+  "app:open-vault": [],
+  "editor:insert-tag": [{"modifiers": ["Mod", "Shift"], "key": "T"}],
+  "daily-notes": [{"modifiers": ["Mod", "Shift"], "key": "D"}],
+  "switcher:open": [{"modifiers": ["Mod"], "key": "O"}]
+}
