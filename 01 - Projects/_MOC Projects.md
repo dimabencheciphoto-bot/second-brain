@@ -8,7 +8,7 @@
 
 | Projeto | Estado | Próxima Ação | Deadline |
 |---------|--------|--------------|----------|
-| [[Overnight Engine v2]] | Em curso | — | — |
+| [[Overnight Engine]] | Em curso | — | — |
 | [[UGC Agency Launch]] | Em curso | — | — |
 
 ---

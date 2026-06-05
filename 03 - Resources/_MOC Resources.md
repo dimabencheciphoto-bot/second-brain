@@ -23,9 +23,10 @@
 *Ver pasta `03 - Resources/Papers/`*
 - [[]] ← adicionar à medida que lês
 
-## 🛠️ Frameworks
+## 🛠️ Frameworks & Tools
 
 *Notas sobre ferramentas e SDKs*
+- [[Claude Code Skills]] — todos os skills instalados e como usá-los
 - [[Anthropic SDK]] ← a criar
 - [[Playwright Guide]] ← a criar
 - [[MoviePy v2 Patterns]] ← a criar

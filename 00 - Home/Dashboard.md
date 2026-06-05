@@ -6,8 +6,7 @@
 
 ## ⚡ Quick Capture
 
-→ Usa `Cmd+N` para nota rápida na pasta [[06 - Fleeting]]
-→ Usa `Cmd+Shift+D` para abrir o Daily Note de hoje
+→ `Ctrl+Shift+D` para Daily Note de hoje · `Ctrl+N` para nota rápida em [[06 - Fleeting]]
 
 ---
 
@@ -21,14 +20,63 @@ SEMANA    →
 
 ---
 
+## 🚀 Projetos Ativos
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Projeto",
+  status AS "Estado"
+FROM "01 - Projects"
+WHERE contains(tags, "project") AND contains(tags, "status/active")
+SORT file.name ASC
+```
+
+---
+
+## ✅ Tasks em Aberto
+
+```dataview
+TASK
+FROM "01 - Projects"
+WHERE !completed
+LIMIT 10
+```
+
+---
+
+## 🎬 Últimas Runs do Engine
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Data",
+  file.mtime AS "Hora"
+FROM "01 - Projects/Engine Runs"
+SORT file.name DESC
+LIMIT 7
+```
+
+---
+
+## 📝 Daily Notes Recentes
+
+```dataview
+LIST
+FROM "06 - Fleeting"
+WHERE file.name != "Business" AND file.name != "Learning"
+SORT file.name DESC
+LIMIT 5
+```
+
+---
+
 ## 📁 Sistema PARA
 
-| Área | Descrição | Link |
-|------|-----------|------|
-| 🚀 **Projects** | Trabalho ativo com deadline | [[_MOC Projects]] |
-| 🌐 **Areas** | Responsabilidades contínuas | [[_MOC Areas]] |
-| 📚 **Resources** | Conhecimento de referência | [[_MOC Resources]] |
-| 🗄️ **Archive** | Projetos concluídos | [[04 - Archive]] |
+| Área | Link |
+|------|------|
+| 🚀 Projects | [[_MOC Projects]] |
+| 🌐 Areas | [[_MOC Areas]] |
+| 📚 Resources | [[_MOC Resources]] |
+| 🗄️ Archive | [[04 - Archive]] |
 
 ---
 
@@ -37,34 +85,16 @@ SEMANA    →
 - **Modelos** → [[Claude Models]] · [[Model Comparison]]
 - **Prompts** → [[Prompt Library]]
 - **Padrões** → [[AI Patterns]] · [[Agentic Patterns]]
-- **Pipelines** → [[Overnight Engine]] · [[UGC System]] · [[Market Agent]]
-
----
-
-## 📊 Métricas (atualizar manualmente)
-
-| Métrica | Valor |
-|---------|-------|
-| Tokens este mês | — |
-| Custo estimado | — |
-| Projetos ativos | — |
-| Experimentos em curso | — |
-
----
-
-## 📝 Notas Recentes (Fleeting)
-
-*Ver pasta [[06 - Fleeting]] — processar semanalmente*
 
 ---
 
 ## 🗓️ Ritual Semanal
 
-- [ ] Processar notas fleeting → mover para PARA
+- [ ] Processar [[06 - Fleeting]] → mover para PARA
 - [ ] Atualizar estado dos projetos ativos
-- [ ] Registar uma aprendizagem nova em [[Learning Log]]
+- [ ] Registar aprendizagem em [[Learning Log]]
 - [ ] Rever métricas de custo/tokens
 
 ---
 
-*Vault criado: 2026-06-05 | Sistema: PARA + Zettelkasten híbrido*
+*Vault: [dimabencheciphoto-bot/second-brain](https://github.com/dimabencheciphoto-bot/second-brain) · Criado: 2026-06-05*

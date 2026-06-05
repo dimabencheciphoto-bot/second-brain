@@ -6,9 +6,25 @@
 
 ## Quem sou
 
-Builder de automação com AI. O objetivo não é aprender AI — é usar AI para gerar sistemas que trabalham sem mim.
+Builder de automação com AI. Trabalho full-time como encarregado de obra em fit out na **Vectormais** e em part-time como **fotógrafo e videógrafo** (eventos, foto e vídeo de produto). Estudei Gestão de Empresas na Universidade Lusíadas de Lisboa.
+
+O objetivo não é aprender AI — é **monetizar o conhecimento de AI**. Transformar experiência técnica em oportunidades de negócio concretas: automação que gera receita passiva, serviços que vendo a marcas, sistemas que escalam sem o meu tempo directo.
+
+A AI é o meio. O dinheiro é o fim.
 
 **Email:** dimabencheciphoto@gmail.com
+
+---
+
+## Background que torna isto diferente
+
+A maioria dos builders de AI não sabe editar um vídeo. Eu sei. Isso muda o que consigo construir:
+
+- **DaVinci Resolve** — edição profissional de vídeo
+- **Photoshop + Lightroom** — pós-produção foto e vídeo de produto
+- **Produção UGC** — sei o que funciona em câmara porque faço isso profissionalmente
+- **Gestão de Empresas** — penso em margens, escalabilidade e processos, não só em código
+- **Fit out / Obra** — gestão de equipas, prazos reais, consequências reais de erros
 
 ---
 
@@ -33,6 +49,7 @@ Scraping:    Playwright
 Video:       moviepy v2 + edge-tts + PIL
 Data:        pandas, yfinance
 Plataformas: YouTube, Instagram, Facebook, TikTok, Telegram
+Edição:      DaVinci Resolve, Photoshop, Lightroom
 OS:          Windows 11 Pro / PowerShell
 ```
 
@@ -63,10 +80,12 @@ OS:          Windows 11 Pro / PowerShell
 
 | Métrica | Agora | Meta |
 |---------|-------|------|
-| Vídeos publicados/semana | — | 7 |
-| Custo tokens/mês | — | < $10 |
+| Vídeos publicados/semana | 0 | 7 |
+| Custo tokens/mês | ~$0.01 | < $10 |
 | Clientes UGC ativos | 0 | 3 |
-| Uptime overnight engine | — | 95% |
+| Uptime overnight engine | a arrancar | 95% |
+
+*Actualizar mensalmente.*
 
 ---
 
@@ -76,3 +95,4 @@ OS:          Windows 11 Pro / PowerShell
 2. **Haiku por defeito** — sobe de modelo só se a qualidade não chegar
 3. **Medir antes de otimizar** — token_monitor está sempre ligado
 4. **Ship > Perfeito** — um sistema a 80% que funciona bate um a 100% que não existe
+5. **Vantagem real** — tenho olho de criativo + cabeça de gestor + mãos de programador
