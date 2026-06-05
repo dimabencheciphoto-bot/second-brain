@@ -10,6 +10,7 @@
 |---------|--------|--------------|----------|
 | [[Overnight Engine]] | Em curso | — | — |
 | [[UGC Agency Launch]] | Em curso | — | — |
+| [[Musa 1.0]] | Em curso | Módulo 1 — Claude Code CLI | — |
 
 ---
 
