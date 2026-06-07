@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "portfolio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,12 +211,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "016f3a9229053ef8",
+  "active": "ad3c2cc9695feacc",
   "lastOpenFiles": [
+    "01 - Projects/Musa 1.0.md",
+    "06 - Fleeting/04 - Archive.md",
     "03 - Resources/Models/Claude Models.md",
     "Untitled.canvas",
     "03 - Resources/Tools/Claude Code Skills.md",
-    "01 - Projects/Musa 1.0.md",
     "01 - Projects/Musa 1.0.md.tmp.23448.fe22a2094e4e",
     "01 - Projects/_MOC Projects.md",
     "01 - Projects/_MOC Projects.md.tmp.23448.9058d99fa642",
