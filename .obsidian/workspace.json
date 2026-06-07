@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Fleeting/2026-06-07.md",
-                "mode": "preview",
+                "file": "01 - Projects/UGC Outreach Runs/2026-06-07.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fitnow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,8 +216,19 @@
   },
   "active": "ad3c2cc9695feacc",
   "lastOpenFiles": [
+    "01 - Projects/Overnight Engine.md",
     "01 - Projects/Musa 1.0.md",
+    "01 - Projects/_MOC Projects.md",
+    "01 - Projects/UGC Outreach Runs/2026-06-07.md",
     "06 - Fleeting/2026-06-07.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "03 - Resources/Prompts/Prompt Library.md",
+    "01 - Projects/UGC Agency Launch.md",
+    "02 - Areas/Business/UGC Agency.md",
+    "00 - Home/Dashboard.md",
+    "02 - Areas/Business/Business Overview.md",
+    "01 - Projects/UGC Outreach Runs",
     "06 - Fleeting/2026-06-07.md.tmp.26508.ea581f879a69",
     "03 - Resources/Concepts/CPI-consumer-price-index.md",
     "03 - Resources/Concepts/CPI-consumer-price-index.md.tmp.26508.2af94e7875e5",
@@ -229,32 +239,22 @@
     "Untitled.canvas",
     "03 - Resources/Tools/Claude Code Skills.md",
     "01 - Projects/Musa 1.0.md.tmp.23448.fe22a2094e4e",
-    "01 - Projects/_MOC Projects.md",
     "01 - Projects/_MOC Projects.md.tmp.23448.9058d99fa642",
     "01 - Projects/Musa 1.0.md.tmp.23448.44b9d0a01fc4",
     "06 - Fleeting/2026-06-06.md",
     "06 - Fleeting/2026-06-06.md.tmp.23448.61be84ae5554",
     "06 - Fleeting/06 - Fleeting.md",
-    "00 - Home/Dashboard.md",
     "06 - Fleeting/2026-06-06.md.tmp.23448.0fb49051170a",
     "02 - Areas/Market Analysis/Market Analysis.md",
     "02 - Areas/Business/Weekly Business Review.md",
-    "02 - Areas/Business/UGC Agency.md",
-    "02 - Areas/Business/Business Overview.md",
     "02 - Areas/Business/Content Engine KPIs.md",
     "06 - Fleeting/Business.md",
     "02 - Areas/Business/Weekly Business Review.md.tmp.23448.8a21fb89a5a9",
-    "02 - Areas/Business/UGC Agency.md.tmp.23448.c3a5b1c5fe0a",
-    "01 - Projects/Overnight Engine.md",
     "01 - Projects/Engine Runs/2026-06-05.md",
     "02 - Areas/AI Development/AI Development.md",
     "05 - Templates/Prompt Template.md",
     "05 - Templates/Daily Note.md",
-    "06 - Fleeting/2026-06-05.md",
-    "06 - Fleeting/Learning.md",
-    "06 - Fleeting/Prompt Engineering.md",
     "Sem título 1.canvas",
-    "Sem título.canvas",
-    "05 - Templates/Project Template.md"
+    "Sem título.canvas"
   ]
 }
