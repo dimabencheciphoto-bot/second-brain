@@ -13,6 +13,13 @@ Append-only. New entries go at the TOP. Never edit past entries.
 
 ---
 
+## 2026-06-08 — save | Vault Scan + Structural Cleanup (session note)
+- Type: session
+- Location: wiki/sessions/2026-06-08-vault-scan-and-cleanup.md
+- From: vault scan → 5 fixes → navigation consolidation (wiki/domains/ removed)
+
+---
+
 ## 2026-06-08 — save | Skills + Wiki Obsidian Setup (session note)
 - Type: session
 - Location: wiki/sessions/2026-06-08-skills-wiki-obsidian-setup.md

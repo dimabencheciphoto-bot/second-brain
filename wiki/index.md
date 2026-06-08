@@ -54,6 +54,7 @@ Conhecimento processado — conceitos, research, sources. Para estado de execuç
 
 | Sessão | Data | Resumo |
 |--------|------|--------|
+| [[2026-06-08-vault-scan-and-cleanup]] | 2026-06-08 | Vault scan + 5 fixes + navigation consolidation |
 | [[2026-06-08-skills-wiki-obsidian-setup]] | 2026-06-08 | Skills install + vault lint + wiki scaffold + Viralto research |
 
 ---
