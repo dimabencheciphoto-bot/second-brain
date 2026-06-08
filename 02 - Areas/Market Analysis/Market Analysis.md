@@ -12,12 +12,15 @@ python vault_market.py        # escreve resumo no vault
 
 ## Instrumentos Seguidos
 
-| Instrumento | Tipo | Porquê |
-|-------------|------|--------|
-| EUR/USD | Forex | Exposição cambial |
-| VWCE | ETF | Acções globais (Vanguard) |
-| IWDA | ETF | Mundo desenvolvido (iShares) |
-| EUNA | ETF | Europa (iShares) |
+| Tipo | Exemplos |
+|------|---------|
+| Forex | EUR/USD, USD/JPY, GBP/USD, DXY |
+| Índices | S&P 500, NASDAQ, EuroStoxx 50, DAX, IBEX 35 |
+| ETFs | SPY, QQQ, GLD, TLT, EEM, VGK, VWCE, IWDA, EUNA |
+
+## Conceitos Macro
+
+- [[CPI Consumer Price Index]] — inflação, dados 2025-2026, impacto macro
 
 ## Últimas Análises
 

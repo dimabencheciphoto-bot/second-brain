@@ -9,27 +9,16 @@ status: active
 
 # Wiki Index
 
-Master catalog. Every page added to `wiki/` gets an entry here.
-
----
-
-## Domains
-
-| Domain | Description | Index |
-|--------|-------------|-------|
-| AI & Automation | Claude ecosystem, pipelines, agents, tools | [[ai-automation/_index]] |
-| Markets & Finance | Forex, indices, ETFs, macro | [[markets-finance/_index]] |
-| Content & UGC | Overnight Engine, social media, Viralto | [[content-ugc/_index]] |
-| Business | KPIs, outreach, revenue, Musa 1.0 | [[business/_index]] |
+Conhecimento processado — conceitos, research, sources. Para estado de execução → usar PARA (`01-04/`).
 
 ---
 
 ## Concepts
 
-| Page | Domain | Status |
-|------|--------|--------|
+| Página | Área | Status |
+|--------|------|--------|
 | [[Anthropic SDK]] | AI | seed |
-| [[MoviePy v2 Patterns]] | AI/Content | seed |
+| [[MoviePy v2 Patterns]] | AI | seed |
 | [[Playwright Guide]] | AI | seed |
 | [[Prompt Engineering]] | AI | seed |
 | [[AI Patterns]] | AI | developing |
@@ -43,48 +32,34 @@ Master catalog. Every page added to `wiki/` gets an entry here.
 
 ---
 
-## Entities
+## Research / Questions
 
-| Entity | Type | Notes |
-|--------|------|-------|
-| — | — | — |
-
----
-
-## Questions / Research
-
-| Page | Topic | Date |
-|------|-------|------|
+| Página | Tópico | Data |
+|--------|--------|------|
 | [[Research - Viralto UGC Agency Setup]] | Setup completo da agência Viralto | 2026-06-08 |
 
 ---
 
 ## Sources
 
-| Source | Ingested | Domain |
-|--------|----------|--------|
-| — | — | — |
-
----
-
-## Questions Filed
-
-| Question | Filed | Answer |
-|----------|-------|--------|
-| — | — | — |
+| Source | Domínio |
+|--------|---------|
+| [[src-ugc-agency-blueprint]] | Business |
+| [[src-ugc-cold-email-guide]] | Business |
+| [[src-ugc-pricing-2025]] | Business |
 
 ---
 
 ## Sessions
 
-| Session | Date | Summary |
-|---------|------|---------|
+| Sessão | Data | Resumo |
+|--------|------|--------|
 | [[2026-06-08-skills-wiki-obsidian-setup]] | 2026-06-08 | Skills install + vault lint + wiki scaffold + Viralto research |
 
 ---
 
 ## Meta
 
-- [[lint-report-2026-06-08]] — vault health check
-- [[hot]] — recent context cache
-- [[log]] — operation log
+- [[lint-report-2026-06-08b]] — último lint report (0 issues reais)
+- [[hot]] — contexto recente
+- [[log]] — log de operações

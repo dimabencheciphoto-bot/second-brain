@@ -2,14 +2,22 @@
 
 ## Revenue Streams
 
-| Stream | Status | MRR Est. | Notas |
-|--------|--------|----------|-------|
-| UGC Agency | 🟡 Ativo | €0 | Pipeline em curso |
-| Overnight Engine (AdSense/Sponsors) | 🔴 Pre-revenue | €0 | |
-| Consultoria/Freelance | ⬜ Inativo | — | |
+| Stream | Status | MRR Est. | Próximo passo |
+|--------|--------|----------|---------------|
+| Viralto (UGC Agency) | 🟡 Ativo | €0 | Portfolio Carrd + outreach 20 leads |
+| Overnight Engine (AdSense/Sponsors) | 🔴 Pre-revenue | €0 | Configurar .env credentials |
+| Consultoria/Freelance | ⬜ Inativo | — | — |
+
+## Projectos Activos
+
+| Projecto | Estado | Próximo passo |
+|----------|--------|---------------|
+| [[Musa 1.0]] | Módulo 7 em curso | Registar Viralto + portfolio |
+| [[UGC Agency Launch]] | Pipeline pronto | Outreach batch 20 leads |
+| [[Overnight Engine]] | Pronto | Configurar .env credentials |
 
 ## Links Rápidos
-- [[UGC Agency]] — pipeline e clientes
+- [[UGC Agency]] — pricing, pipeline, clientes → ver [[UGC Pricing]] para pricing actual
 - [[Content Engine KPIs]] — métricas de vídeo
 - [[Weekly Business Review]] — revisão semanal
 

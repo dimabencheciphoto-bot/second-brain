@@ -23,7 +23,6 @@
 ## 📄 Papers
 
 *Ver pasta `03 - Resources/Papers/`*
-- [[]] ← adicionar à medida que lês
 
 ## 🛠️ Frameworks & Tools
 
