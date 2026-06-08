@@ -1,9 +1,10 @@
 ---
+title: "UGC Pricing"
 type: concept
 status: developing
 tags: [ugc, pricing, viralto, rates]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # UGC Pricing
@@ -53,6 +54,6 @@ Retainers funcionam melhor quando:
 
 ## Ver também
 
-- [[UGC Agency Launch]] — pipeline técnico
+- [[Viralto UGC Agency]] — pipeline técnico
 - [[UGC Agency Business Model]] — modelo de negócio e margens
 - [[Research - Viralto UGC Agency Setup]]

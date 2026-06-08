@@ -1,9 +1,10 @@
 ---
+title: "UGC Portfolio"
 type: concept
 status: developing
 tags: [ugc, portfolio, viralto, spec-content]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # UGC Portfolio
@@ -49,5 +50,5 @@ O portfolio é o único proof of work necessário para fechar primeiros clientes
 
 ## Ver também
 
-- [[UGC Agency Launch]] — pipeline técnico
+- [[Viralto UGC Agency]] — pipeline técnico
 - [[Research - Viralto UGC Agency Setup]]

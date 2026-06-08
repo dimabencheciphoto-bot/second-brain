@@ -6,7 +6,7 @@ updated: 2026-06-08
 tags: [research, ugc, viralto, agency, outreach]
 status: developing
 related:
-  - "[[UGC Agency Launch]]"
+  - "[[Viralto UGC Agency]]"
   - "[[UGC Agency Business Model]]"
   - "[[UGC Cold Outreach]]"
   - "[[UGC Portfolio]]"

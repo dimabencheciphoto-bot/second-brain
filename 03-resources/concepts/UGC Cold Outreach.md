@@ -1,9 +1,10 @@
 ---
+title: "UGC Cold Outreach"
 type: concept
 status: developing
 tags: [ugc, outreach, cold-email, viralto, sales]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # UGC Cold Outreach
@@ -58,6 +59,6 @@ Faz sentido explorar?
 
 ## Ver também
 
-- [[UGC Agency Launch]] — sistema técnico de outreach
-- [[Prompt Library]] — prompt de cold email personalizado
+- [[Viralto UGC Agency]] — sistema técnico de outreach
+- [[AGENTS]] — ver secção "Ingest / Save" para geração de cold emails via Claude
 - [[Research - Viralto UGC Agency Setup]]

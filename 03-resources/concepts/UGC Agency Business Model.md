@@ -1,9 +1,10 @@
 ---
+title: "UGC Agency Business Model"
 type: concept
 status: developing
 tags: [ugc, agency, business-model, viralto]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # UGC Agency Business Model
@@ -37,6 +38,6 @@ Brand (cliente) → Agência → Criadores (freelance)
 
 ## Ver também
 
-- [[UGC Agency Launch]] — pipeline técnico actual
+- [[Viralto UGC Agency]] — pipeline técnico actual
 - [[UGC Pricing]] — estrutura de preços
 - [[Research - Viralto UGC Agency Setup]]
