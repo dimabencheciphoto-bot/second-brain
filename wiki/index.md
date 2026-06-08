@@ -2,14 +2,14 @@
 type: meta
 title: "Wiki Index"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [meta, index]
 status: active
 ---
 
 # Wiki Index
 
-Conhecimento processado — conceitos, research, sources. Para estado de execução → usar PARA (`01-04/`).
+Conhecimento processado — conceitos, research, sources.
 
 ---
 
@@ -17,14 +17,14 @@ Conhecimento processado — conceitos, research, sources. Para estado de execuç
 
 | Página | Área | Status |
 |--------|------|--------|
-| [[Anthropic SDK]] | AI | seed |
-| [[MoviePy v2 Patterns]] | AI | seed |
-| [[Playwright Guide]] | AI | seed |
-| [[Prompt Engineering]] | AI | seed |
-| [[AI Patterns]] | AI | developing |
-| [[Agentic Patterns]] | AI | developing |
-| [[Cost Optimization]] | AI | developing |
-| [[CPI Consumer Price Index]] | Markets | developing |
+| [[Anthropic SDK]] | AI | active |
+| [[AI Patterns]] | AI | active |
+| [[Agentic Patterns]] | AI | active |
+| [[Prompt Engineering]] | AI | active |
+| [[Cost Optimization]] | AI | active |
+| [[MoviePy v2 Patterns]] | AI/Content | active |
+| [[Playwright Guide]] | AI | active |
+| [[CPI Consumer Price Index]] | Markets | active |
 | [[UGC Agency Business Model]] | Business | developing |
 | [[UGC Cold Outreach]] | Business | developing |
 | [[UGC Portfolio]] | Business | developing |
@@ -50,17 +50,8 @@ Conhecimento processado — conceitos, research, sources. Para estado de execuç
 
 ---
 
-## Sessions
-
-| Sessão | Data | Resumo |
-|--------|------|--------|
-| [[2026-06-08-vault-scan-and-cleanup]] | 2026-06-08 | Vault scan + 5 fixes + navigation consolidation |
-| [[2026-06-08-skills-wiki-obsidian-setup]] | 2026-06-08 | Skills install + vault lint + wiki scaffold + Viralto research |
-
----
-
 ## Meta
 
-- [[lint-report-2026-06-08b]] — último lint report (0 issues reais)
+- [[lint-report-2026-06-08b]] — último lint report
 - [[hot]] — contexto recente
 - [[log]] — log de operações

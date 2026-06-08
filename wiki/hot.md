@@ -1,32 +1,29 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-08T22:00:00
+updated: 2026-06-09T00:00:00
 tags: [meta, cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-06-08. Vault scan completo + consolidação de navegação. Vault agora limpo e com estrutura clara.
+2026-06-09. 8 conceitos AI re-ingestados após reestruturação do vault.
 
 ## Key Recent Facts
-- **Vault estrutura final:** PARA (01-04/) = execução · wiki/ = conhecimento processado
-- **wiki/domains/ eliminado** — era redundante com PARA; 4 ficheiros apagados
-- **Ficheiros de navegação:** reduzidos de 10+ para 5 (Dashboard + 3 MOCs + wiki/index.md)
-- **04 - Archive/ criado** — Second Brain Cleanup.md arquivado lá
-- **Pricing Viralto:** fonte única = [[UGC Pricing]] (€40-80 entrada, Starter €250-300, Growth €450-500)
-- **dima visual claude:** .gitignore criado; output/, __pycache__, data/raw/ excluídos do git
+- **Vault estrutura:** wiki/ + .raw/ — PARA eliminado, estrutura limpa
+- **Concepts activos (12):** Anthropic SDK, AI Patterns, Agentic Patterns, Prompt Engineering, Cost Optimization, MoviePy v2 Patterns, Playwright Guide, CPI Consumer Price Index + 4 conceitos UGC
+- **dima visual claude wiki:** `wiki/CLAUDE.md` criado — pronto para scaffold completo com `/wiki`
+- **Pricing Viralto:** [[UGC Pricing]] — €40-80 entrada, Starter €250-300, Growth €450-500
+- **MonitoredAnthropic:** wrapper obrigatório em todos os projectos — importar de `Dima Claude/token_monitor.py`
+- **Modelos:** Haiku → geração bulk · Sonnet → análise · Opus → raciocínio complexo
 
 ## Recent Changes
-- Created: [[2026-06-08-vault-scan-and-cleanup]] (session note)
-- Deleted: wiki/domains/ (4 _index files)
-- Updated: [[Business Overview]] (project table + Viralto), [[Market Analysis]] (instruments + macro)
-- Updated: [[Dashboard]] (Dataview tasks), [[UGC Agency]] (pricing → single source of truth)
-- Fixed: [[_MOC Resources]] (broken link), [[AI Development]] (placeholders → wikilinks)
+- Created: [[Anthropic SDK]], [[AI Patterns]], [[Agentic Patterns]], [[Prompt Engineering]], [[Cost Optimization]], [[MoviePy v2 Patterns]], [[Playwright Guide]], [[CPI Consumer Price Index]]
+- Updated: [[Wiki Index]], [[Concepts Index]], [[Wiki Log]]
 
 ## Active Threads
-- Viralto: próximo passo = registar viralto.com + filmar spec videos + criar Carrd
 - Overnight Engine: falta .env credentials (YouTube OAuth, TikTok pending)
-- dima visual claude: sem remote GitHub — autenticar `gh auth login` para push
-- Vault: limpo, navegação consolidada — pronto para uso diário
+- Viralto: registar viralto.com → spec videos → Carrd
+- dima visual claude: sem remote GitHub — `gh auth login`
+- Wiki dima visual claude: scaffold completo pendente (`/wiki`)

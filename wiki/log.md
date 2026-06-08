@@ -13,6 +13,28 @@ Append-only. New entries go at the TOP. Never edit past entries.
 
 ---
 
+## 2026-06-09 — ingest | AI Concepts re-ingested (8 pages)
+- Pages created: [[Anthropic SDK]], [[AI Patterns]], [[Agentic Patterns]], [[Prompt Engineering]], [[Cost Optimization]], [[MoviePy v2 Patterns]], [[Playwright Guide]], [[CPI Consumer Price Index]]
+- Source: knowledge reconstruction (originals lost in PARA deletion)
+- Updated: [[Wiki Index]], [[Concepts Index]]
+
+---
+
+## 2026-06-08 — restructure | PARA → wiki/ + .raw/
+- Deleted: 00-Home, 01-Projects, 02-Areas, 03-Resources, 04-Archive, 05-Templates, 06-Fleeting, wiki/sessions/
+- Created: wiki/CLAUDE.md, wiki/domains/_index.md, .raw/web|pdf|notes|transcripts/
+- Updated: CLAUDE.md root, wiki/index.md (orphans removed), concepts/_index.md, hot.md
+- Note: AI concepts (Anthropic SDK, AI Patterns, etc.) were in 03-Resources/ — now gone, need re-ingest
+
+---
+
+## 2026-06-08 — save | LLM Wiki Setup — dima visual claude (decision)
+- Type: decision
+- Location: wiki/sessions/2026-06-08-llm-wiki-setup-dima-visual-claude.md
+- From: session — wiki schema designed for dima visual claude project; CLAUDE.md written; sources: web, PDF, notes, transcripts
+
+---
+
 ## 2026-06-08 — save | Vault Scan + Structural Cleanup (session note)
 - Type: session
 - Location: wiki/sessions/2026-06-08-vault-scan-and-cleanup.md
