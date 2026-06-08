@@ -12,10 +12,11 @@
 
 ## 🔥 Foco Atual
 
-```
-AGORA     →  vamos compear o dashboard
-HOJE      →  trabalhar no ucg agency
-SEMANA    →  novos competencias
+```dataview
+TASK
+FROM "01 - Projects"
+WHERE !completed
+LIMIT 5
 ```
 
 ---

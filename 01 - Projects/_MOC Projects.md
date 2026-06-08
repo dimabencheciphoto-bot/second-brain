@@ -25,7 +25,7 @@
 
 | Output | Data | Tipo |
 |--------|------|------|
-| [[Second Brain Cleanup]] | 2026-06-08 | Vault maintenance |
+| [[Second Brain Cleanup\|Second Brain Cleanup]] | 2026-06-08 | Vault maintenance → arquivado |
 | [[carousel-claude-code-2026-06-08\|Carousel — Claude Code Commands]] | 2026-06-08 | Instagram content |
 
 ---

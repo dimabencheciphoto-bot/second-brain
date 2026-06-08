@@ -1,15 +1,13 @@
-# UGC Agency
+# Viralto — UGC Agency
 
 ## Proposta de Valor
-Vídeos UGC para marcas e-commerce em inglês. Entrega: 5-7 dias.
+Vídeos UGC para marcas e-commerce DTC (Beauty/Wellness). Entrega: 5-7 dias. Target: Shopify DTC PT/EU.
 
 ## Pricing
 
-| Pacote | Preço | Inclui |
-|--------|-------|--------|
-| Starter | €150 | 1 vídeo, 1 revisão |
-| Growth | €350 | 3 vídeos, 2 revisões |
-| Scale | €800 | 8 vídeos, edição inclusa |
+→ Ver [[UGC Pricing]] (fonte única de verdade)
+
+Resumo: €40-80/vídeo entrada · Starter Pack 3v = €250-300 · Growth 6v = €450-500 · Retainer €350/mês
 
 ## Pipeline (resumo — detalhe em pipeline.csv)
 
