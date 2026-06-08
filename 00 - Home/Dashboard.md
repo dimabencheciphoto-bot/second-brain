@@ -13,9 +13,9 @@
 ## 🔥 Foco Atual
 
 ```
-AGORA     →  
-HOJE      →  
-SEMANA    →  
+AGORA     →  vamos compear o dashboard
+HOJE      →  trabalhar no ucg agency
+SEMANA    →  novos competencias
 ```
 
 ---
@@ -77,6 +77,8 @@ LIMIT 5
 | 🌐 Areas | [[_MOC Areas]] |
 | 📚 Resources | [[_MOC Resources]] |
 | 🗄️ Archive | [[04 - Archive]] |
+| 👤 Perfil | [[Sobre Mim]] |
+| 📖 Como usar | [[Como Usar Este Vault]] |
 
 ---
 
@@ -85,6 +87,7 @@ LIMIT 5
 - **Modelos** → [[Claude Models]] · [[Model Comparison]]
 - **Prompts** → [[Prompt Library]]
 - **Padrões** → [[AI Patterns]] · [[Agentic Patterns]]
+- **Mercados** → [[Market Agent]] · [[Market Analysis]]
 
 ---
 

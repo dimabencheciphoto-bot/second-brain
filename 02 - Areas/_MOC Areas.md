@@ -9,11 +9,17 @@
 ### 🤖 [[AI Development]]
 Craft técnico: arquiteturas, padrões, APIs, benchmarks, boas práticas.
 
-### 📖 [[Learning]]
+### 📖 [[Learning Log|Learning]]
 Papers lidos, cursos, aprendizagens, spaced repetition, [[Learning Log]].
 
-### 💼 [[Business]]
+### 💼 [[Business Overview|Business]]
 Monetização, clientes UGC, canais de conteúdo, métricas de negócio.
+
+### 💰 [[Token Usage]]
+Custos semanais da API Anthropic. Relatórios em `02 - Areas/Token Usage/`.
+
+### 📊 [[Market Analysis]]
+Reports de mercado gerados pelo [[Market Agent]]. EUR/USD, índices, ETFs.
 
 ---
 

@@ -1,7 +1,10 @@
 # Market Agent
 
-Tags: #projeto #mercados #automação #python
-Data: 2026-06-08
+---
+tags: [projeto, mercados, automação, python]
+created: 2026-06-08
+status: active
+---
 
 ## O que é
 
@@ -44,3 +47,13 @@ Cobre 4 pontos em português europeu:
 - Forex reduzido aos 5 pares mais seguidos por analistas
 - Análise passada para português europeu
 - 3 bugs corrigidos: encoding JSON, barra de progresso invisível, regex de headings com `#e2e8f0`
+
+---
+
+## Ver também
+
+- [[Market Analysis]] — reports gerados por este script
+- [[AI Development]] — contexto técnico dos pipelines Claude
+- [[Claude Models]] — modelo usado: Sonnet para análise
+- [[CPI-consumer-price-index]] — referência macro relacionada
+- [[_MOC Projects]]

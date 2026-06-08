@@ -13,6 +13,8 @@
 
 - [[AI Patterns]] — padrões arquiteturais reutilizáveis
 - [[Agentic Patterns]] — multi-agent, tool use, loops
+- [[Cost Optimization]] — reduzir custo de tokens (caching, batch, modelo certo)
+- [[CPI-consumer-price-index]] — referência macro para análise de mercado
 
 ## 💬 Prompts
 

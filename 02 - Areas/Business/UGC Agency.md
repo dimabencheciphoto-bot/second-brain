@@ -35,4 +35,10 @@ Vídeos UGC para marcas e-commerce em inglês. Entrega: 5-7 dias.
 
 ---
 
+## Ver também
+
+- [[UGC Agency Launch]] — projeto ativo com milestones e próximos passos
+- [[Musa 1.0]] — Módulo 7: Monetizar (inclui Viralto)
+- [[Business Overview]] — revenue streams e visão geral
+
 *Tags: #business #ugc*

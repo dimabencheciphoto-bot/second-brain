@@ -34,9 +34,10 @@ A maioria dos builders de AI não sabe editar um vídeo. Eu sei. Isso muda o que
 |---------|--------|----------|
 | [[Overnight Engine]] | Ativo 🟢 | Conteúdo diário automatizado → receita de anúncios |
 | [[UGC Agency Launch]] | Ativo 🟢 | Clientes de vídeo UGC → receita de serviço |
-| Market Agent | Funcional | Análise EUR/USD + ETFs pessoais |
+| [[Market Agent]] | Funcional | Análise EUR/USD + ETFs pessoais |
 | Real Estate Agent | Funcional | Scrape Idealista → relatório de oportunidades |
-| [[Dashboard\|Second Brain]] | Construído | Sistema de conhecimento pessoal |
+| [[Dashboard|Second Brain]] | Construído | Sistema de conhecimento pessoal |
+
 
 ---
 

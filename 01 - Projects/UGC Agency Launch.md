@@ -54,6 +54,14 @@ python ugc_system/deal_tracker.py --add
 
 ---
 
+## Pipeline Reports
+
+| Data | Link |
+|------|------|
+| 2026-06-08 | [[pipeline-2026-06-08]] |
+
+---
+
 ## Log de Decisões
 
 ### 2026-06-05

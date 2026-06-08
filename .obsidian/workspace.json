@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5bccb05a708cc8",
+        "id": "0a1c30cfc4a7c577",
         "type": "tabs",
         "children": [
           {
-            "id": "1654feb657319c0f",
+            "id": "2e5054a3f532fd1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Fleeting/2026-06-05.md",
+                "file": "06 - Fleeting/2026-06-07.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-05"
+              "title": "2026-06-07"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -195,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -216,47 +215,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1654feb657319c0f",
+  "active": "2e5054a3f532fd1f",
   "lastOpenFiles": [
-    "Sem título.canvas",
-    "01 - Projects/Market Agent.md",
-    "01 - Projects/Engine Runs/2026-06-07.md",
+    "06 - Fleeting/Business.md",
+    "06 - Fleeting/Untitled.base",
+    "06 - Fleeting/Untitled 3.base",
+    "06 - Fleeting/Untitled 2.base",
+    "06 - Fleeting/Untitled 1.base",
     "06 - Fleeting/2026-06-05.md",
-    "03 - Resources/Concepts/Cost Optimization.md",
-    "03 - Resources/Models/Claude Models.md",
-    "02 - Areas/Business/Business Overview.md",
-    "06 - Fleeting/2026-06-08.md",
-    "memory/user-profile.md",
-    "memory",
-    "01 - Projects/Musa 1.0.md",
-    "01 - Projects/Musa 1.0.md.tmp.28784.4cbe480bfa4e",
-    "01 - Projects/Musa 1.0.md.tmp.28784.14d45a81f04a",
-    "01 - Projects/Musa 1.0.md.tmp.28784.5ffd2916d7a8",
-    "01 - Projects/Overnight Engine.md",
-    "01 - Projects/Musa 1.0.md.tmp.28784.2ca1cb3ad50a",
-    "01 - Projects/Musa 1.0.md.tmp.28784.8fbbfc8053c9",
-    "01 - Projects/Musa 1.0.md.tmp.28784.eada56bdc99f",
-    "01 - Projects/Musa 1.0.md.tmp.28784.85b23d011525",
-    "01 - Projects/Musa 1.0.md.tmp.28784.0423480308b1",
-    "01 - Projects/Musa 1.0.md.tmp.28784.ef72a380ba3d",
-    "02 - Areas/Market Analysis/2026-06-07-market-crash-analysis.md",
-    "02 - Areas/Market Analysis/2026-06-08.md",
-    "01 - Projects/UGC Agency/pipeline-2026-06-08.md",
-    "03 - Resources/Tools/Claude Code Skills.md",
-    "01 - Projects/Engine Runs/2026-06-08.md",
-    "02 - Areas/Token Usage/2026-W23.md",
-    "01 - Projects/UGC Agency Launch.md",
-    "01 - Projects/UGC Outreach Runs/2026-06-07.md",
-    "01 - Projects/_MOC Projects.md",
-    "06 - Fleeting/2026-06-07.md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "03 - Resources/Prompts/Prompt Library.md",
-    "02 - Areas/Business/UGC Agency.md",
-    "00 - Home/Dashboard.md",
-    "03 - Resources/Concepts/CPI-consumer-price-index.md",
     "06 - Fleeting/04 - Archive.md",
+    "05 - Templates/Prompt Template.md",
+    "05 - Templates/Project Template.md",
+    "05 - Templates/Daily Note.md",
+    "05 - Templates/Experiment Log.md",
+    "03 - Resources/_MOC Resources.md",
+    "03 - Resources/Tools/Claude Code Skills.md",
+    "03 - Resources/Prompts/Prompt Library.md",
+    "03 - Resources/Models/Model Comparison.md",
+    "03 - Resources/Models/Claude Models.md",
+    "03 - Resources/Concepts/CPI-consumer-price-index.md",
+    "03 - Resources/Concepts/Cost Optimization.md",
+    "03 - Resources/Concepts/AI Patterns.md",
+    "03 - Resources/Concepts/Agentic Patterns.md",
+    "02 - Areas/Market Analysis/2026-06-08.md",
+    "02 - Areas/Market Analysis/Market Analysis.md",
+    "02 - Areas/Learning/Learning Log.md",
+    "02 - Areas/Business/Weekly Business Review.md",
+    "02 - Areas/Business/UGC Agency.md",
+    "02 - Areas/Business/Content Engine KPIs.md",
+    "02 - Areas/Business/Business Overview.md",
+    "02 - Areas/AI Development/AI Development.md",
+    "Excalidraw/Drawing 2026-06-08 14.32.31.excalidraw.md",
+    "00 - Home/Dashboard.md",
+    "Sem título.canvas",
     "Untitled.canvas",
-    "Sem título 1.canvas"
+    "Sem título 1.canvas",
+    "01 - Projects/Second Brain Cleanup.md.tmp.5660.2d35e6eed7d9",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "01 - Projects/UGC Agency Launch.md.tmp.5660.00e17c331142",
+    "02 - Areas/_MOC Areas.md.tmp.5660.c90e84653101",
+    "02 - Areas/Token Usage/Token Usage.md.tmp.5660.433f102cbdc2",
+    "00 - Home/Dashboard.md.tmp.5660.126bca01911a",
+    "02 - Areas/AI Development/AI Development.md.tmp.5660.6424001fba84"
   ]
 }

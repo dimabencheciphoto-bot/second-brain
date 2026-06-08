@@ -9,11 +9,11 @@ Foco principal: pipelines de automação com Claude API + sistemas agenticos.
 
 ## Sub-áreas
 
-- [[Prompt Engineering]] — técnicas, patterns, avaliação
+- Prompt Engineering — técnicas, patterns, avaliação ← *nota a criar*
 - [[Agentic Patterns]] — tool use, multi-agent, orquestração  
-- [[Model Selection]] — quando usar qual modelo e porquê
+- Model Selection — quando usar qual modelo e porquê ← *ver [[Claude Models]] e [[Model Comparison]]*
 - [[Cost Optimization]] — tokens, caching, batch processing
-- [[AI Ethics & Safety]] — guardrails, output validation
+- AI Ethics & Safety — guardrails, output validation ← *nota a criar*
 
 ---
 
@@ -41,5 +41,6 @@ Foco principal: pipelines de automação com Claude API + sistemas agenticos.
 
 ## Aprendizagens Chave
 
-- [[Lesson - Anthropic Extended Thinking]]
-- [[Lesson - Agentic Loop Patterns]]
+- [[Learning Log]] — aprendizagens registadas com datas
+- Extended Thinking — explorar uso de `thinking` blocks para raciocínio complexo ← *nota a criar*
+- Agentic Loop Patterns — tool use + retry + fallback ← *ver [[Agentic Patterns]]*
