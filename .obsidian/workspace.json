@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -212,6 +213,8 @@
   },
   "active": "2e5054a3f532fd1f",
   "lastOpenFiles": [
+    "01 - Projects/Carousel Generator/carousel-claude-code-2026-06-08.md",
+    "01 - Projects/Carousel Generator",
     "06 - Fleeting/2026-06-07.md",
     "06 - Fleeting/Business.md",
     "06 - Fleeting/Untitled.base",
@@ -241,7 +244,6 @@
     "02 - Areas/Business/Content Engine KPIs.md",
     "02 - Areas/Business/Business Overview.md",
     "02 - Areas/AI Development/AI Development.md",
-    "Excalidraw/Drawing 2026-06-08 14.32.31.excalidraw.md",
     "Sem título.canvas",
     "Untitled.canvas",
     "Sem título 1.canvas",
@@ -256,7 +258,6 @@
     "01 - Projects/UGC Agency Launch.md.tmp.5660.00e17c331142",
     "02 - Areas/_MOC Areas.md.tmp.5660.c90e84653101",
     "02 - Areas/Token Usage/Token Usage.md.tmp.5660.433f102cbdc2",
-    "00 - Home/Dashboard.md.tmp.5660.126bca01911a",
-    "02 - Areas/AI Development/AI Development.md.tmp.5660.6424001fba84"
+    "00 - Home/Dashboard.md.tmp.5660.126bca01911a"
   ]
 }
