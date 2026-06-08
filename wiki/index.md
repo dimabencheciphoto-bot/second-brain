@@ -36,6 +36,10 @@ Master catalog. Every page added to `wiki/` gets an entry here.
 | [[Agentic Patterns]] | AI | developing |
 | [[Cost Optimization]] | AI | developing |
 | [[CPI Consumer Price Index]] | Markets | developing |
+| [[UGC Agency Business Model]] | Business | developing |
+| [[UGC Cold Outreach]] | Business | developing |
+| [[UGC Portfolio]] | Business | developing |
+| [[UGC Pricing]] | Business | developing |
 
 ---
 
@@ -44,6 +48,14 @@ Master catalog. Every page added to `wiki/` gets an entry here.
 | Entity | Type | Notes |
 |--------|------|-------|
 | — | — | — |
+
+---
+
+## Questions / Research
+
+| Page | Topic | Date |
+|------|-------|------|
+| [[Research - Viralto UGC Agency Setup]] | Setup completo da agência Viralto | 2026-06-08 |
 
 ---
 

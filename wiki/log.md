@@ -13,6 +13,19 @@ Append-only. New entries go at the TOP. Never edit past entries.
 
 ---
 
+## 2026-06-08 — autoresearch | Viralto UGC Agency Setup
+
+**Operation:** AUTORESEARCH  
+**Rounds:** 2 (Round 3 não necessário — sem contradições)  
+**Searches:** 7 | **Pages created:** 5
+
+- Created: [[Research - Viralto UGC Agency Setup]] (synthesis)
+- Created: [[UGC Agency Business Model]], [[UGC Cold Outreach]], [[UGC Portfolio]], [[UGC Pricing]]
+- Key finding: Portfolio spec em 1-2 dias → cold email 3-step → primeiro cliente em 2-4 semanas. Target: DTC Beauty/Wellness Shopify. Preço entrada: €40-80/vídeo.
+- Open questions: viralto.com disponível? Pricing ajustado PT/EU? Contrato simples para primeiros clientes?
+
+---
+
 ## 2026-06-08 — Scaffold + Lint
 
 **Operation:** SCAFFOLD + LINT  
