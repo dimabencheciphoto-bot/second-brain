@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f49f0f7c6151450",
+        "id": "0e5bccb05a708cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3c2cc9695feacc",
+            "id": "1654feb657319c0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Musa 1.0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Musa 1.0"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,11 +70,13 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -214,12 +212,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad3c2cc9695feacc",
+  "active": "1654feb657319c0f",
   "lastOpenFiles": [
-    "01 - Projects/UGC Agency Launch.md",
-    "01 - Projects/Overnight Engine.md",
-    "01 - Projects/UGC Outreach Runs/2026-06-07.md",
+    "06 - Fleeting/2026-06-05.md",
+    "03 - Resources/Concepts/Cost Optimization.md",
+    "03 - Resources/Models/Claude Models.md",
+    "02 - Areas/Business/Business Overview.md",
+    "06 - Fleeting/2026-06-08.md",
+    "memory/user-profile.md",
+    "memory",
     "01 - Projects/Musa 1.0.md",
+    "01 - Projects/Musa 1.0.md.tmp.28784.4cbe480bfa4e",
+    "01 - Projects/Musa 1.0.md.tmp.28784.14d45a81f04a",
+    "01 - Projects/Musa 1.0.md.tmp.28784.5ffd2916d7a8",
+    "01 - Projects/Overnight Engine.md",
+    "01 - Projects/Musa 1.0.md.tmp.28784.2ca1cb3ad50a",
+    "01 - Projects/Musa 1.0.md.tmp.28784.8fbbfc8053c9",
+    "01 - Projects/Musa 1.0.md.tmp.28784.eada56bdc99f",
+    "01 - Projects/Musa 1.0.md.tmp.28784.85b23d011525",
+    "01 - Projects/Musa 1.0.md.tmp.28784.0423480308b1",
+    "01 - Projects/Musa 1.0.md.tmp.28784.ef72a380ba3d",
+    "02 - Areas/Market Analysis/2026-06-07-market-crash-analysis.md",
+    "01 - Projects/Market Agent.md",
+    "02 - Areas/Market Analysis/2026-06-08.md",
+    "01 - Projects/UGC Agency/pipeline-2026-06-08.md",
+    "03 - Resources/Tools/Claude Code Skills.md",
+    "01 - Projects/Engine Runs/2026-06-08.md",
+    "02 - Areas/Token Usage/2026-W23.md",
+    "01 - Projects/UGC Agency Launch.md",
+    "01 - Projects/UGC Outreach Runs/2026-06-07.md",
     "01 - Projects/_MOC Projects.md",
     "06 - Fleeting/2026-06-07.md",
     "Untitled 2.canvas",
@@ -227,33 +248,11 @@
     "03 - Resources/Prompts/Prompt Library.md",
     "02 - Areas/Business/UGC Agency.md",
     "00 - Home/Dashboard.md",
-    "02 - Areas/Business/Business Overview.md",
-    "01 - Projects/UGC Outreach Runs",
-    "06 - Fleeting/2026-06-07.md.tmp.26508.ea581f879a69",
     "03 - Resources/Concepts/CPI-consumer-price-index.md",
-    "03 - Resources/Concepts/CPI-consumer-price-index.md.tmp.26508.2af94e7875e5",
-    "02 - Areas/Market Analysis/2026-06-07-market-crash-analysis.md",
-    "02 - Areas/Market Analysis/2026-06-07-market-crash-analysis.md.tmp.26508.20fbb2c8b745",
     "06 - Fleeting/04 - Archive.md",
-    "03 - Resources/Models/Claude Models.md",
     "Untitled.canvas",
-    "03 - Resources/Tools/Claude Code Skills.md",
-    "01 - Projects/Musa 1.0.md.tmp.23448.fe22a2094e4e",
-    "01 - Projects/_MOC Projects.md.tmp.23448.9058d99fa642",
-    "01 - Projects/Musa 1.0.md.tmp.23448.44b9d0a01fc4",
     "06 - Fleeting/2026-06-06.md",
-    "06 - Fleeting/2026-06-06.md.tmp.23448.61be84ae5554",
     "06 - Fleeting/06 - Fleeting.md",
-    "06 - Fleeting/2026-06-06.md.tmp.23448.0fb49051170a",
-    "02 - Areas/Market Analysis/Market Analysis.md",
-    "02 - Areas/Business/Weekly Business Review.md",
-    "02 - Areas/Business/Content Engine KPIs.md",
-    "06 - Fleeting/Business.md",
-    "02 - Areas/Business/Weekly Business Review.md.tmp.23448.8a21fb89a5a9",
-    "01 - Projects/Engine Runs/2026-06-05.md",
-    "02 - Areas/AI Development/AI Development.md",
-    "05 - Templates/Prompt Template.md",
-    "05 - Templates/Daily Note.md",
     "Sem título 1.canvas",
     "Sem título.canvas"
   ]
