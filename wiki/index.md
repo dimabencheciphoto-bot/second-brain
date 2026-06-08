@@ -75,6 +75,14 @@ Master catalog. Every page added to `wiki/` gets an entry here.
 
 ---
 
+## Sessions
+
+| Session | Date | Summary |
+|---------|------|---------|
+| [[2026-06-08-skills-wiki-obsidian-setup]] | 2026-06-08 | Skills install + vault lint + wiki scaffold + Viralto research |
+
+---
+
 ## Meta
 
 - [[lint-report-2026-06-08]] — vault health check

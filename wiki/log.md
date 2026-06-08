@@ -13,6 +13,13 @@ Append-only. New entries go at the TOP. Never edit past entries.
 
 ---
 
+## 2026-06-08 — save | Skills + Wiki Obsidian Setup (session note)
+- Type: session
+- Location: wiki/sessions/2026-06-08-skills-wiki-obsidian-setup.md
+- From: full session — skills install, vault lint, wiki scaffold, autoresearch Viralto
+
+---
+
 ## 2026-06-08 — autoresearch | Viralto UGC Agency Setup
 
 **Operation:** AUTORESEARCH  
