@@ -14,7 +14,7 @@
 - [[AI Patterns]] — padrões arquiteturais reutilizáveis
 - [[Agentic Patterns]] — multi-agent, tool use, loops
 - [[Cost Optimization]] — reduzir custo de tokens (caching, batch, modelo certo)
-- [[CPI-consumer-price-index]] — referência macro para análise de mercado
+- [[CPI Consumer Price Index]] — referência macro para análise de mercado
 
 ## 💬 Prompts
 
@@ -29,9 +29,10 @@
 
 *Notas sobre ferramentas e SDKs*
 - [[Claude Code Skills]] — todos os skills instalados e como usá-los
-- [[Anthropic SDK]] ← a criar
-- [[Playwright Guide]] ← a criar
-- [[MoviePy v2 Patterns]] ← a criar
+- [[Anthropic SDK]] — SDK Python oficial + MonitoredAnthropic wrapper
+- [[Playwright Guide]] — scraping async/sync, padrões usados neste projecto
+- [[MoviePy v2 Patterns]] — geração de vídeo no Overnight Engine
+- [[Prompt Engineering]] — técnicas de prompts usadas nos pipelines
 
 ---
 

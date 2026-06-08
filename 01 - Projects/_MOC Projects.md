@@ -21,6 +21,15 @@
 
 ---
 
+## 🔵 Outputs Recentes
+
+| Output | Data | Tipo |
+|--------|------|------|
+| [[Second Brain Cleanup]] | 2026-06-08 | Vault maintenance |
+| [[carousel-claude-code-2026-06-08\|Carousel — Claude Code Commands]] | 2026-06-08 | Instagram content |
+
+---
+
 ## ✅ Concluídos Recentemente
 
 *Ver [[04 - Archive]]*

@@ -1,10 +1,12 @@
-# Market Agent
-
 ---
+type: project
+status: active
 tags: [projeto, mercados, automação, python]
 created: 2026-06-08
-status: active
+updated: 2026-06-08
 ---
+
+# Market Agent
 
 ## O que é
 
@@ -55,5 +57,5 @@ Cobre 4 pontos em português europeu:
 - [[Market Analysis]] — reports gerados por este script
 - [[AI Development]] — contexto técnico dos pipelines Claude
 - [[Claude Models]] — modelo usado: Sonnet para análise
-- [[CPI-consumer-price-index]] — referência macro relacionada
+- [[CPI Consumer Price Index]] — referência macro relacionada
 - [[_MOC Projects]]

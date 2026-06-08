@@ -1,8 +1,11 @@
 # 🎯 Musa 1.0 — Dominar o Ecossistema Claude
 
 ---
-tags: project status/active
+type: project
+status: active
+tags: [project, musa, claude, learning]
 created: 2026-06-06
+updated: 2026-06-08
 deadline: —
 ---
 

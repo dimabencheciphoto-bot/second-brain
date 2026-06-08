@@ -1,6 +1,9 @@
 ---
-tags: project status/active
+type: project
+status: active
+tags: [project, ugc, outreach, viralto]
 created: 2026-06-05
+updated: 2026-06-08
 ---
 
 # 📱 UGC Agency Launch

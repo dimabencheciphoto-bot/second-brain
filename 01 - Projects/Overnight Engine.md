@@ -1,6 +1,9 @@
 ---
-tags: project status/active
+type: project
+status: active
+tags: [project, automation, video, overnight-engine]
 created: 2026-06-05
+updated: 2026-06-08
 ---
 
 # 🎬 Overnight Engine
@@ -102,6 +105,17 @@ python overnight_engine/setup_scheduler.py --delete
 | Data | Plataformas OK | Erros | Custo tokens |
 |------|---------------|-------|--------------|
 | — | — | — | — |
+
+---
+
+## Engine Runs
+
+| Data | Link |
+|------|------|
+| 2026-06-05 | [[2026-06-05\|Engine Run 2026-06-05]] |
+| 2026-06-06 | [[2026-06-06\|Engine Run 2026-06-06]] |
+| 2026-06-07 | [[2026-06-07\|Engine Run 2026-06-07]] |
+| 2026-06-08 | [[2026-06-08\|Engine Run 2026-06-08]] |
 
 ---
 
