@@ -78,6 +78,7 @@ LIMIT 5
 | 🌐 Areas | [[_MOC Areas]] |
 | 📚 Resources | [[_MOC Resources]] |
 | 🗄️ Archive | [[04 - Archive]] |
+| 🧭 Arquitectura | [[Arquitectura do Vault]] |
 | 👤 Perfil | [[Sobre Mim]] |
 | 📖 Como usar | [[Como Usar Este Vault]] |
 
