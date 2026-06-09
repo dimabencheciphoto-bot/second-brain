@@ -7,7 +7,9 @@ published: 2026-04-19
 created: 2026-06-09
 description: "Built a Claude Code system that generates a full on-brand Instagram carousel from one idea. Hooks, copy, slide visuals, ready to post in minutes."
 tags:
-  - "clippings"
+  - clippings
+  - carousels
+  - source
 ---
 Free guide · part of the Claude Code Course
 

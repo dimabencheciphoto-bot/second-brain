@@ -10,6 +10,39 @@ Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
 
 ---
 
+## 2026-06-09 — lint | Orphan wikilinks resolved
+
+- **New notes created (8):**
+  - `02-areas/Overnight Engine.md` — orphan referenced 6x
+  - `04-archive/_MOC Projects.md` — orphan referenced 5x
+  - `04-archive/UGC Agency Launch.md` — orphan referenced 6x
+  - `04-archive/Market Analysis.md` — orphan referenced 1x
+  - `03-resources/concepts/Prompt Library.md` — orphan linked from lint + sources
+  - `03-resources/concepts/Obsidian Skills.md` — orphan linked from Claude Skills Inventory
+  - `03-resources/entities/Chetan Pujari.md` — orphan linked from source
+  - `03-resources/entities/Kiran Grewal.md` — orphan linked from source
+  - `03-resources/entities/Ryan Frizelle.md` — orphan linked from source
+- **Templates cleaned:** `area-template.md`, `resource-template.md` — placeholder links removed
+- **Ignored (lint reports archived, not worth fixing):** date orphans, placeholder names, backslash artefacts
+- **Result:** 0 meaningful orphans; all real references now resolve to existing notes
+
+---
+
+## 2026-06-09 — cleanup | Vault reorganisation
+
+- **Cleaned:** `Clippings/` → `03-resources/sources/` (3 articles moved)
+  - `src-claude-prompts-10-every-day` (Kiran Grewal, 2026-05-03)
+  - `src-claude-prompts-50-steal` (Chetan Pujari, 2026-03-24)
+  - `src-automate-instagram-carousels` (Ryan Frizelle, 2026-04-19)
+- **Moved:** `01 - Projects/Engine Runs/2026-06-09.md` → `01-projects/`
+- **Deleted:** `00-inbox/ruflo-setup-2026-06-09.md` (duplicate of 01-projects/)
+- **Deleted:** `01 - Projects/` folder (empty after move)
+- **Deleted:** `Clippings/` folder (empty after move)
+- **Result:** PARA puro — 5 folders na raiz (00‑inbox, 01‑projects, 02‑areas, 03‑resources, 04‑archive, templates)
+- **Action:** frontmatter updated on all moved files; index.md updated
+
+---
+
 ## 2026-06-09 — save | Claude Skills Inventory
 
 - Type: synthesis

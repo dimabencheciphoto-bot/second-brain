@@ -69,7 +69,7 @@ date: YYYY-MM-DD
 tags: [tag1, tag2]
 status: active | developing | completed | archived
 area: ai-dev | ugc | markets | tools | personal
-related: ["[[Related Note]]"]
+related: ["[[Note Name]]"]
 source: manual | claude | web | pdf
 ---
 ```

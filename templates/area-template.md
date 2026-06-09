@@ -18,8 +18,7 @@ What "good" looks like for this area.
 Brief status of this responsibility right now.
 
 ## Key Resources
-- [[Relevant Concept]]
-- [[Related Project]]
+- (add relevant links here)
 
 ## Notes / Log
 (append updates here chronologically)

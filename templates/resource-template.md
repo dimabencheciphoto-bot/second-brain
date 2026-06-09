@@ -18,5 +18,4 @@ One paragraph — what this is and why it matters.
 ## Code / Examples
 
 ## Related
-- [[Link 1]]
-- [[Link 2]]
+- (add related notes here)

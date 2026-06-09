@@ -18,6 +18,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[Research - Viralto UGC Agency Setup]] | Setup completo Viralto — pricing, outreach, portfolio | active |
 | [[Overnight Engine - Credentials Setup]] | Configurar .env: YouTube, Meta, TikTok, Telegram | active |
 | [[Musa 1.0 - Module 7]] | Módulo Monetizar = Viralto launch | active |
+| [[2026-06-09 - Engine Run]] | Overnight Engine — broken pipe, ffmpeg permission denied | completed |
 
 ---
 
@@ -27,6 +28,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 |------|-----------------|
 | [[AI Development]] | Overnight Engine, Market Agent, Real Estate, Dashboard |
 | [[Viralto UGC Agency]] | Outreach, deal tracker, scripts, cliente pipeline |
+| [[Overnight Engine]] | Pipeline automatizado de conteúdo diário | active |
 
 ---
 
@@ -47,6 +49,8 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[UGC Portfolio]] | Business | developing |
 | [[UGC Pricing]] | Business | developing |
 | [[Carousel Generator]] | Tools/Content | active |
+| [[Obsidian Skills]] | Obsidian | active |
+| [[Prompt Library]] | AI/Prompts | active |
 
 ---
 
@@ -57,12 +61,19 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[src-ugc-agency-blueprint]] | Business |
 | [[src-ugc-cold-email-guide]] | Business |
 | [[src-ugc-pricing-2025]] | Business |
+| [[src-claude-prompts-10-every-day]] | AI/Prompts |
+| [[src-claude-prompts-50-steal]] | AI/Prompts |
+| [[src-automate-instagram-carousels]] | AI/Content |
 
 ---
 
 ## Entities (03-resources/entities/)
 
-Ver `03-resources/entities/_index.md` — Anthropic, Viralto, Claude Code.
+| Entity | Tipo |
+|--------|------|
+| [[Chetan Pujari]] | Author |
+| [[Kiran Grewal]] | Author |
+| [[Ryan Frizelle]] | Author |
 
 ---
 
@@ -72,6 +83,10 @@ Ver `03-resources/entities/_index.md` — Anthropic, Viralto, Claude Code.
 |------|-----------|
 | lint-report-2026-06-08 | 2026-06-09 |
 | lint-report-2026-06-08b | 2026-06-09 |
+| lint-report-2026-06-09 | 2026-06-09 |
+| [[_MOC Projects]] | 2026-06-09 |
+| [[UGC Agency Launch]] | 2026-06-09 |
+| [[Market Analysis]] | 2026-06-09 |
 
 ---
 

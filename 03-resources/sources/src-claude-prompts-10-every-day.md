@@ -7,7 +7,9 @@ published: 2026-05-03
 created: 2026-06-09
 description: "10 Claude Prompts I Use Every Single Day (Copy These) I Stopped Winging My Prompts Six Months Ago… My Output Doubled Overnight… I used to open Claude and just… type whatever came to mind. No …"
 tags:
-  - "clippings"
+  - clippings
+  - prompts
+  - source
 ---
 ## I Stopped Winging My Prompts Six Months Ago… My Output Doubled Overnight…
 

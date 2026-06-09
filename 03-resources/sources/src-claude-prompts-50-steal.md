@@ -7,7 +7,9 @@ published: 2026-03-24
 created: 2026-06-09
 description: "The only Claude prompt guide written for creators who actually want to make money."
 tags:
-  - "clippings"
+  - clippings
+  - prompts
+  - source
 ---
 ![](https://substackcdn.com/image/fetch/$s_!-13c!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c58a64b-a32b-405f-8b16-57418b2d474e_2400x1792.png)
 
