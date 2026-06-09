@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb088f9d2905fe44",
+        "id": "bdf58d24143acfb5",
         "type": "tabs",
         "children": [
           {
-            "id": "1db8d3b235c28e78",
+            "id": "8c71d1cdba9b31a9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -209,9 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1db8d3b235c28e78",
+  "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
+    "00-inbox/ruflo-setup-2026-06-09.md",
+    "CLAUDE.md",
+    "04-archive/wiki-meta/lint-report-2026-06-08b.md",
     "01-projects/Carousel Generator — template (2026-06-09).md",
+    "templates/project-template.md",
+    "templates/note-template.md",
+    "03-resources/concepts/UGC Portfolio.md",
     "01-projects/Musa 1.0 - Module 7.md",
     "03-resources/sources/src-ugc-pricing-2025.md",
     "01-projects/Overnight Engine - Credentials Setup.md",
@@ -229,14 +236,10 @@
     "03-resources/concepts/UGC Pricing.md.tmp.12872.661c104279f9",
     "index.md",
     "log.md",
-    "04-archive/wiki-meta/lint-report-2026-06-08b.md",
     "03-resources/concepts/Carousel Generator.md",
     "AGENTS.md",
     "03-resources/concepts/MoviePy v2 Patterns.md",
-    "CLAUDE.md",
     "templates/resource-template.md",
-    "templates/project-template.md",
-    "templates/note-template.md",
     "templates/area-template.md",
     "04-archive/wiki-meta/lint-report-2026-06-08.md",
     "03-resources/sources/src-ugc-cold-email-guide.md",
@@ -245,8 +248,6 @@
     "03-resources/concepts/Cost Optimization.md",
     "03-resources/concepts/AI Patterns.md",
     "03-resources/concepts/Agentic Patterns.md",
-    "02-areas/Viralto UGC Agency.md",
-    "02-areas/AI Development.md",
     "Sem título.canvas",
     "Untitled.canvas",
     "Sem título 1.canvas",
