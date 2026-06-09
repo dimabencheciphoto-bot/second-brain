@@ -1,4 +1,4 @@
-﻿# Ruflo Setup Completo — 2026-06-09
+# Ruflo Setup Completo — 2026-06-09
 
 ## O que é o Ruflo
 Plataforma de orquestração de agentes AI (v3.10.37) integrada no workspace dima visual claude. Camada de memória, automação e coordenação de agentes em paralelo.
@@ -25,8 +25,8 @@ Hierarchical-mesh, 15 agentes, auto-scale. Usado para research Viralto.
 Max 50 iterações, 240 min timeout. Retenta falhas automaticamente.
 
 ### 6. Integrações novas
-- `overnight_engine/log_watcher.py` — engine.log → Telegram em tempo real
-- `/morning` skill — ruflo memory search integrado no resumo matinal
+-  — engine.log → Telegram em tempo real
+-  skill — ruflo memory search integrado no resumo matinal
 
 ## Leads Viralto encontrados
 | Marca | País | Prioridade |
@@ -44,12 +44,75 @@ Max 50 iterações, 240 min timeout. Retenta falhas automaticamente.
 - [ ] log_watcher.py em paralelo com engine
 
 ## Comandos ruflo
-```bash
-ruflo memory search -q "query"
-ruflo analyze diff --risk
-ruflo swarm start --objective "..." --strategy research --max-agents 4
-ruflo hooks model-route -t "tarefa"
-```
+[INFO] Searching: "query" (semantic)
+
+  Search time: 232ms
+
++----------------------+-------+-----------+-------------------------------------+
+| Key                  | Score | Namespace | Preview                             |
++----------------------+-------+-----------+-------------------------------------+
+| pipeline:second-b... |  0.50 | default   | Second Brain: Obsidian vault em ... |
++----------------------+-------+-----------+-------------------------------------+
+
+[INFO] Found 1 results
+[INFO] Analyzing diff: HEAD
+
++----------- Diff Analysis -----------+
+| Ref: HEAD                           |
+| Files: 12                           |
+| Risk: low (7/100)                   |
+| Type: undefined                     |
+|                                     |
+| 12 files changed (+99/-5), low risk |
++-------------------------------------+
+
+Risk Assessment
+--------------------------------------------------
++---------------------+-------+
+| Metric              | Value |
++---------------------+-------+
+| Overall Risk        | low   |
+| Risk Score          | 7/100 |
+| Files Changed       |       |
+| Total Lines Changed |       |
+| Test Coverage       |       |
++---------------------+-------+
+
+[INFO] Starting swarm with objective: ...
+
+Agent Deployment Plan
++-------------+-------------+-------+------------------------+
+| Role        | Type        | Count | Purpose                |
++-------------+-------------+-------+------------------------+
+| Coordinator | coordinator |     1 | Research coordination  |
+| Researcher  | researcher  |     4 | Data gathering         |
+| Analyst     | analyst     |     2 | Analysis and synthesis |
++-------------+-------------+-------+------------------------+
+
+
+... Initializing swarm via MCP...
+                                       
+Swarm initialized via MCP
+
+[OK] Swarm swarm-mq6m7da4 initialized with 7 agent slots
+  This CLI coordinates agent state. Execution happens via:
+  - Claude Code Agent tool (interactive)
+  - claude -p (headless background)
+  - hive-mind spawn --claude (autonomous)
+  Monitor: claude-flow swarm status swarm-mq6m7da4
+[INFO] Analyzing task complexity: tarefa...
+
++-- Model Routing Result ---+
+| Selected Model: 📜 SONNET |
+| Confidence: 68.6%         |
+| Complexity: low (16%)     |
+| Cost Savings: 80% vs opus |
++---------------------------+
+
+Reasoning
+Complexity: 16% | Confidence: 69% | Model: sonnet - Balanced capability and cost | Cost: 0.2x baseline
+
+Implementation: tiny-dancer-neural
 
 ---
 *Sessão Claude Code 2026-06-09*
