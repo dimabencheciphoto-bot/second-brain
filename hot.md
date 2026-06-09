@@ -10,9 +10,9 @@ tags: [meta, cache]
 2026-06-09. Lint completo: 7 dead links corrigidos, frontmatter 4 UGC concepts fixo, 0 orphans.
 
 ## Key Recent Facts
+- **Skills Inventory:** 160 skills Claude Code documentados em 01-projects/Claude Skills Inventory.md
 - **Estrutura:** PARA (00-inbox → 01-projects → 02-areas → 03-resources → 04-archive)
-- **AGENTS.md** na raiz = instruction manual para Claude (~170 linhas)
-- **01-projects (3):** Viralto Research · Overnight Engine Credentials · Musa 1.0 Module 7
+- **01-projects (4):** Claude Skills Inventory · Viralto Research · Overnight Engine Credentials · Musa 1.0 Module 7
 - **02-areas (2):** AI Development · Viralto UGC Agency
 - **03-resources/concepts (13):** 8 AI + 4 UGC + Carousel Generator
 - **Overnight Engine:** código PRONTO, falta .env (YouTube OAuth, Meta, TikTok, Telegram)

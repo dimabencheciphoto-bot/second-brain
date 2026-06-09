@@ -14,6 +14,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 
 | Note | Tópico | Status |
 |------|--------|--------|
+| [[Claude Skills Inventory]] | Inventário completo ~160 skills Claude Code | active |
 | [[Research - Viralto UGC Agency Setup]] | Setup completo Viralto — pricing, outreach, portfolio | active |
 | [[Overnight Engine - Credentials Setup]] | Configurar .env: YouTube, Meta, TikTok, Telegram | active |
 | [[Musa 1.0 - Module 7]] | Módulo Monetizar = Viralto launch | active |

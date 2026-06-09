@@ -10,6 +10,15 @@ Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
 
 ---
 
+## 2026-06-09 — save | Claude Skills Inventory
+
+- Type: synthesis
+- Location: 01-projects/Claude Skills Inventory.md
+- From: conversation "quantos skills tenho. monstra" — inventário completo ~160 skills Claude Code
+- Categorias: locais (43), globais (82), plugin/sistema (40+), SPARC (33), Swarm (16), Hive-Mind (14), hooks/memory/coordination/agents/github/workflows/automation
+
+---
+
 ## 2026-06-09 — lint | Vault health check + fixes
 
 - Pages scanned: 33
