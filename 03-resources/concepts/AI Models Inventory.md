@@ -15,6 +15,8 @@ created: 2026-06-09
 | **Claude Haiku 4-5** | `claude-haiku-4-5-20251001` | Speed-sensitive generation (cold emails, video scripts, UGC) | Cheapest |
 | **Claude Opus 4-8** | `claude-opus-4-8` | Complex reasoning | Most expensive |
 
+**New (2026-06-09):** [[Claude Fable 5]] (`claude-fable-5`, $10/$50 per 1M) — Mythos-class frontier model, not yet used in pipelines; see note for benchmarks and when it's worth it.
+
 **All API calls** go through `MonitoredAnnotated` wrapper from `C:\Users\DIMA\Documents\Dima Claude\token_monitor.py` for automatic token/cost tracking.
 
 ## Dashboard-Costed Models (not necessarily active)
