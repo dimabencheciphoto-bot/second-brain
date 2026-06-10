@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-resources/concepts/Prompt Engineering.md",
+                "file": "01-projects/Musa 1.0 - Module 7.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Engineering"
+              "title": "Musa 1.0 - Module 7"
             }
           }
         ]
@@ -74,12 +74,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.51103591918945
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -216,6 +215,13 @@
   },
   "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
+    "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.26297455d859",
+    "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.ba93943367fd",
+    "01-projects/toma-medication-manager.md",
+    "01-projects/toma-medication-manager.md.tmp.19172.ca85b20e89c4",
+    "01-projects/reciba-ai-fiscal-inbox.md",
+    "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.0d6c906d9ecb",
+    "03-resources/concepts/Prompt Engineering.md",
     "03-resources/concepts/Anthropic SDK.md",
     "01-projects/Musa 1.0 - Module 7.md",
     "03-resources/concepts/AI Models Inventory.md.tmp.34312.b8cf3a2d9a49",
@@ -228,9 +234,6 @@
     "index.md.tmp.38180.fbe40ede21a5",
     "index.md.tmp.38180.249193daab0c",
     "index.md.tmp.38180.f7119e0a5e2a",
-    "index.md.tmp.38180.d28ff6a8f0ae",
-    "index.md.tmp.38180.4a397d8869f8",
-    "index.md.tmp.38180.df36a21222ea",
     "03-resources/concepts/Obsidian Skills.md",
     "04-archive/Market Analysis.md",
     "03-resources/concepts/Prompt Library.md",
@@ -250,10 +253,6 @@
     "01-projects/ruflo-setup-2026-06-09.md",
     "Clippings/10 Claude Prompts I Use Every Single Day (Copy These).md",
     "04-archive/lint-report-2026-06-09.md",
-    "Clippings/50 Claude Prompts Every One Should Steal (Sorted By What Actually Works).md",
-    "01-projects/Claude Skills Inventory.md",
-    "00-inbox/ruflo-setup-2026-06-09.md",
-    "CLAUDE.md",
     "Sem título.canvas",
     "Untitled.canvas",
     "Sem título 1.canvas",
