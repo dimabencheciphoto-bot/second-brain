@@ -11,14 +11,10 @@
             "id": "8c71d1cdba9b31a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-projects/Musa 1.0 - Module 7.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Musa 1.0 - Module 7"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -215,6 +211,9 @@
   },
   "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
+    "01 - Projects/Engine Runs/2026-06-11.md",
+    "01-projects/2026-06-09 - Engine Run.md",
+    "01-projects/Musa 1.0 - Module 7.md",
     "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.26297455d859",
     "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.ba93943367fd",
     "01-projects/toma-medication-manager.md",
@@ -223,7 +222,6 @@
     "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.0d6c906d9ecb",
     "03-resources/concepts/Prompt Engineering.md",
     "03-resources/concepts/Anthropic SDK.md",
-    "01-projects/Musa 1.0 - Module 7.md",
     "03-resources/concepts/AI Models Inventory.md.tmp.34312.b8cf3a2d9a49",
     "03-resources/concepts/Claude Fable 5.md",
     "03-resources/concepts/Claude Fable 5.md.tmp.34312.b632da8a4560",
@@ -233,7 +231,6 @@
     "log.md.tmp.38180.63c1e9eaa921",
     "index.md.tmp.38180.fbe40ede21a5",
     "index.md.tmp.38180.249193daab0c",
-    "index.md.tmp.38180.f7119e0a5e2a",
     "03-resources/concepts/Obsidian Skills.md",
     "04-archive/Market Analysis.md",
     "03-resources/concepts/Prompt Library.md",
@@ -244,7 +241,6 @@
     "03-resources/entities/Chetan Pujari.md",
     "02-areas/Overnight Engine.md",
     "templates/area-template.md",
-    "01-projects/2026-06-09 - Engine Run.md",
     "03-resources/sources/src-automate-instagram-carousels.md",
     "03-resources/sources/src-claude-prompts-50-steal.md",
     "03-resources/sources/src-claude-prompts-10-every-day.md",
