@@ -11,10 +11,14 @@
             "id": "8c71d1cdba9b31a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-projects/Micro-Agência de Conteúdo — Estado 2026-06-11.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Micro-Agência de Conteúdo — Estado 2026-06-11"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.51103591918945
+    "width": 224.51103591918945
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -211,8 +215,10 @@
   },
   "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
-    "01 - Projects/Engine Runs/2026-06-11.md",
+    "01-projects/Micro-Agência de Conteúdo — Estado 2026-06-11.md",
+    "01-projects/Micro-Agência de Conteúdo — Estado 2026-06-11.md.tmp.30112.8e76744d7b1d",
     "01-projects/2026-06-09 - Engine Run.md",
+    "01 - Projects/Engine Runs/2026-06-11.md",
     "01-projects/Musa 1.0 - Module 7.md",
     "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.26297455d859",
     "01-projects/reciba-ai-fiscal-inbox.md.tmp.19172.ba93943367fd",
@@ -230,7 +236,6 @@
     "03-resources/concepts/attachments",
     "log.md.tmp.38180.63c1e9eaa921",
     "index.md.tmp.38180.fbe40ede21a5",
-    "index.md.tmp.38180.249193daab0c",
     "03-resources/concepts/Obsidian Skills.md",
     "04-archive/Market Analysis.md",
     "03-resources/concepts/Prompt Library.md",
@@ -248,7 +253,6 @@
     "Clippings/Automate Instagram Carousels with Claude Code.md",
     "01-projects/ruflo-setup-2026-06-09.md",
     "Clippings/10 Claude Prompts I Use Every Single Day (Copy These).md",
-    "04-archive/lint-report-2026-06-09.md",
     "Sem título.canvas",
     "Untitled.canvas",
     "Sem título 1.canvas",
