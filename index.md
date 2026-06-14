@@ -1,6 +1,6 @@
 ---
 title: "Second Brain Index"
-updated: 2026-06-09
+updated: 2026-06-14
 tags: [meta, index]
 ---
 
@@ -10,7 +10,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 
 ---
 
-## Active Projects (01-projects/)
+## 01 - Projects
 
 | Note | Tópico | Status |
 |------|--------|--------|
@@ -18,21 +18,30 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[Research - Viralto UGC Agency Setup]] | Setup completo Viralto — pricing, outreach, portfolio | active |
 | [[Overnight Engine - Credentials Setup]] | Configurar .env: YouTube, Meta, TikTok, Telegram | active |
 | [[Musa 1.0 - Module 7]] | Módulo Monetizar = Viralto launch | active |
+| [[Workspace — Estado Geral 2026-06-14]] | Estado geral do workspace em 2026-06-14 | active |
+| [[tendas-eventos-website-2026-06-14]] | Site Tendas Eventos — Next.js + Tailwind | active |
+| [[toma-medication-manager]] | App Toma — gestor de medicação | active |
+| [[reciba-ai-fiscal-inbox]] | Reciba.ai — inbox fiscal com IA | active |
 | [[2026-06-09 - Engine Run]] | Overnight Engine — broken pipe, ffmpeg permission denied | completed |
+| `Engine Runs/` | Diários automáticos do overnight engine (vault_reporter.py) | auto |
 
 ---
 
-## Areas (02-areas/)
+## 02 - Areas
 
 | Note | Responsabilidade |
 |------|-----------------|
 | [[AI Development]] | Overnight Engine, Market Agent, Real Estate, Dashboard |
 | [[Viralto UGC Agency]] | Outreach, deal tracker, scripts, cliente pipeline |
-| [[Overnight Engine]] | Pipeline automatizado de conteúdo diário | active |
+| [[Overnight Engine]] | Pipeline automatizado de conteúdo diário |
+| `Token Usage/` | Custos semanais de tokens (vault_tokens.py) | auto |
+| `Market Analysis/` | Análises de mercado EUR/USD + ETFs (vault_market.py) | auto |
 
 ---
 
-## Concepts (03-resources/concepts/)
+## 03 - Resources
+
+### Concepts
 
 | Página | Área | Status |
 |--------|------|--------|
@@ -52,9 +61,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[Obsidian Skills]] | Obsidian | active |
 | [[Prompt Library]] | AI/Prompts | active |
 
----
-
-## Sources (03-resources/sources/)
+### Sources
 
 | Source | Domínio |
 |--------|---------|
@@ -65,9 +72,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[src-claude-prompts-50-steal]] | AI/Prompts |
 | [[src-automate-instagram-carousels]] | AI/Content |
 
----
-
-## Entities (03-resources/entities/)
+### Entities
 
 | Entity | Tipo |
 |--------|------|
@@ -77,7 +82,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 
 ---
 
-## Archive (04-archive/)
+## 04 - Archive
 
 | Item | Arquivado |
 |------|-----------|
@@ -90,8 +95,14 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 
 ---
 
-## Meta
+## 06 - Fleeting
+
+Notas diárias auto-geradas por `vault_session.py` e `vault_auto_sync.py`.
+
+---
+
+## _meta
 
 - [[AGENTS]] — instruction manual para Claude
 - [[log]] — log de operações (append-only)
-- [[hot]] — contexto recente
+- [[hot]] — contexto recente (cache)
