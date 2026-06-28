@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/concepts/Obsidian Skills.md",
+                "file": "02 - Areas/Viralto UGC Agency.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Skills"
+              "title": "Viralto UGC Agency"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945
+    "width": 224.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -215,6 +216,11 @@
   },
   "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
+    "01 - Projects/Portfolio Casamento/Portfolio Casamento - Curadoria.md",
+    "01 - Projects/Portfolio Casamento",
+    "04 - Archive/_MOC Projects.md",
+    "02 - Areas/Viralto UGC Agency.md",
+    "03 - Resources/concepts/Obsidian Skills.md",
     "index.md",
     "_meta/log.md",
     "_meta/hot.md",
@@ -233,7 +239,6 @@
     "06 - Fleeting",
     "04 - Archive/wiki-meta/lint-report-2026-06-08.md",
     "04 - Archive/wiki-meta/lint-report-2026-06-08b.md",
-    "04 - Archive/_MOC Projects.md",
     "04 - Archive/UGC Agency Launch.md",
     "04 - Archive/wiki-meta",
     "04 - Archive/Market Analysis.md",
@@ -245,14 +250,10 @@
     "03 - Resources/sources/src-ugc-cold-email-guide.md",
     "03 - Resources/sources/src-ugc-agency-blueprint.md",
     "03 - Resources/sources/src-claude-prompts-50-steal.md",
-    "03 - Resources/sources/src-claude-prompts-10-every-day.md",
-    "03 - Resources/sources/src-automate-instagram-carousels.md",
-    "03 - Resources/entities/_index.md",
     "03 - Resources/concepts/attachments",
     "03 - Resources/sources",
     "03 - Resources/entities",
     "03 - Resources/concepts",
-    "03 - Resources",
     "03-resources/concepts/attachments/fable5-frontiercode-cost.png",
     "03-resources/concepts/attachments/fable5-benchmark-table.png",
     "Sem título.canvas",
