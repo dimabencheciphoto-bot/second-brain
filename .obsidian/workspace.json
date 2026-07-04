@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/concepts/UGC Agency Business Model.md",
+                "file": "01 - Projects/Research - Viralto UGC Agency Setup.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UGC Agency Business Model"
+              "title": "Research - Viralto UGC Agency Setup"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945,
-    "collapsed": true
+    "width": 224.51103591918945
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -216,17 +215,24 @@
   },
   "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
+    "01 - Projects/reciba-ai-fiscal-inbox.md",
+    "01 - Projects/Packs Workflows Make PT-BR.md",
+    "01 - Projects/Overnight Engine - Credentials Setup.md",
+    "01 - Projects/OsteoJP - Consultoria 2026.md",
+    "01 - Projects/Musa 1.0 - Module 7.md",
+    "01 - Projects/Engine Runs/2026-06-13.md",
+    "01 - Projects/Engine Runs/2026-06-14.md",
+    "_meta/AGENTS.md",
+    "03 - Resources/concepts/UGC Agency Business Model.md",
+    "02 - Areas/Viralto UGC Agency.md.tmp.34464.975b933dd4d5",
     "04 - Archive/UGC Agency Launch.md",
     "02 - Areas/Viralto UGC Agency.md",
-    "01 - Projects/OsteoJP - Consultoria 2026.md",
     "01 - Projects/OsteoJP - Consultoria 2026.md.tmp.26412.3a029f0f6495",
     "02 - Areas/Overnight Engine.md",
-    "01 - Projects/Packs Workflows Make PT-BR.md",
     "01 - Projects/Packs Workflows Make PT-BR.md.tmp.28996.895a22211dfa",
     "01 - Projects/Micro-Agência de Conteúdo — Estado 2026-06-11.md",
     "templates/area-template.md",
     "_meta/log.md",
-    "01 - Projects/reciba-ai-fiscal-inbox.md",
     "04 - Archive/wiki-meta/lint-report-2026-06-08b.md",
     "templates/project-template.md",
     "01 - Projects/Portfolio Casamento/Quintas Lisboa — Outreach 2026-06-28.md",
@@ -238,22 +244,15 @@
     "index.md",
     "_meta/hot.md",
     "_meta/CLAUDE.md",
-    "_meta/AGENTS.md",
     "01 - Projects/2026-06-09 - Engine Run.md",
     "01 - Projects/Carousel Generator — template (2026-06-09).md",
-    "01 - Projects/Claude Skills Inventory.md",
-    "01 - Projects/Musa 1.0 - Module 7.md",
-    "01 - Projects/Workspace — Estado Geral 2026-06-14.md",
     "index.md.tmp.3408.34047202c568",
-    "01 - Projects/tendas-eventos-website-2026-06-14.md",
-    "01 - Projects/tendas-eventos-website-2026-06-14b.md",
     "index.md.tmp.3408.e510f0133a6f",
     "06 - Fleeting",
     "04 - Archive/wiki-meta",
     "04 - Archive",
     "03 - Resources/concepts/attachments/fable5-frontiercode-cost.png",
     "03 - Resources/concepts/attachments/fable5-benchmark-table.png",
-    "03 - Resources/concepts/attachments",
     "03-resources/concepts/attachments/fable5-frontiercode-cost.png",
     "03-resources/concepts/attachments/fable5-benchmark-table.png",
     "Sem título.canvas",

@@ -1,62 +1,88 @@
 ---
-title: "Viralto UGC Agency"
-date: 2026-06-09
-tags: [area, ugc, viralto]
+title: "Viralto — Agência AI"
+date: 2026-06-30
+tags: [area, viralto, agencia-ai, pivot]
 status: active
-related: ["[[UGC Agency Business Model]]", "[[UGC Cold Outreach]]", "[[UGC Pricing]]", "[[UGC Portfolio]]"]
+related: ["[[Research - Viralto AI Agency Pivot 2026]]", "[[AI-Automation-Agency]]"]
 ---
 
-# Viralto UGC Agency
+# Viralto — Agência AI
 
-## Purpose
-Agência UGC portuguesa/europeia para marcas e-commerce. Nome: **Viralto**. Modelo: spec videos → cold outreach → clientes recorrentes.
+> ⚠️ **Pivot em curso (2026-06-29):** A Viralto já não é uma agência UGC. Está a ser transformada em agência AI para o mercado PT/EU.
 
-## Standard
-Pipeline de outreach activo, pelo menos 1 cliente activo, portfolio online visível.
+---
 
-## Current State (2026-06-09)
+## Decisão de Pivot
 
-Nome decidido: **Viralto**
+**De:** agência UGC para e-commerce (spec videos + cold outreach)
+**Para:** agência AI de automação para PMEs portuguesas
 
-**Pendente (por ordem de prioridade):**
-1. Filmar spec videos (1-2 nichos: Beauty/Wellness + Tech)
-2. Criar portfolio no Carrd (viralto.carrd.co ou similar)
-3. Registar viralto.com (verificar disponibilidade)
-4. Lançar batch de cold outreach (20+ marcas)
-5. Primeiro cliente → contrato simples → entregar
+**Razão:** UGC requer produção contínua e tem margem baixa. Mercado AI em PT tem estruturalmente aberto (8% PMEs com IA adoptada, meta UE 75% até 2030). Margem agência AI: 60-80% com < €100/mês de infra.
 
-## Pricing (entrada)
+---
 
-| Tier | Preço | Inclui |
-|------|-------|--------|
-| Por vídeo | €40-80 | Entrada / testes |
-| Starter Pack | €250-300 | 3 vídeos UGC |
-| Growth | €450-500 | 6 vídeos UGC |
-| Retainer | €350/mês | 4 vídeos/mês (recorrente) |
+## Recomendação de Nicho (pesquisa 2026-06-29)
 
-**Multiplicadores:** Usage rights +30-50% · Rush delivery +25-50%
+**Nicho 1 (recomendado):** Recepcionista IA por voz/WhatsApp para clínicas e negócios locais
+- Alvos: dental, estética, fisioterapia, salões, ginásios
+- Dor quantificada: clínica com 30 chamadas/dia perde ~€5.000/mês se perder 10
+- Mercado PT fragmentado — sem player dominante (VoiceFleet €99/mês é o mais próximo)
+- Preço de entrada: €99-300/mês
+- Stack necessário: pode exigir ElevenLabs/Twilio/Vapi (a validar)
 
-→ Detalhes completos: [[UGC Pricing]]
+**Nicho 2 (reserva se nicho 1 não fechar em 60 dias):** Automação de leads/WhatsApp para imobiliárias sobre CRMs existentes (C2S, Imobilead, WAX)
 
-## Target Brands
-- DTC Beauty/Wellness (Shopify)
-- Marcas PT/EU com presença Instagram/TikTok
-- Orçamento marketing €1k-10k/mês
+**O que NÃO fazer:** posicionamento horizontal A+B+C (automação marketing + sistemas AI + conteúdo AI para todos os sectores) — já ocupado pela [[MAIS AI Agency]] em PT.
 
-## Pipeline Tools
-- `ugc_system/prospect_hunter.py` — encontra marcas via Claude
-- `ugc_system/cold_outreach.py` — email cold personalized (Haiku)
-- `ugc_system/nightly_outreach.py` — envio automático Gmail SMTP
-- `ugc_system/deal_tracker.py` — CRM flat-file CSV
+---
 
-## Key Resources
-- [[Research - Viralto UGC Agency Setup]] — research completo (01-projects/)
-- [[UGC Agency Business Model]] — modelo de negócio detalhado
-- [[UGC Cold Outreach]] — sequência emails 3-step
-- [[UGC Portfolio]] — como construir portfolio sem clientes
-- [[UGC Pricing]] — tabela de preços PT/EU
+## Alternativas Exploradas (opção A do brainstorming)
 
-## Notes
-- 2026-06-08: autoresearch completo via /autoresearch skill
-- Cold email 3-step: primeiro email curto + follow-up + último
-- Sem clientes iniciais: spec videos para nichos target como portfolio
+1. **Automação leads imobiliárias** — TAM grande, mais saturado de ferramentas; abertura está na camada AI sobre CRMs existentes
+2. **Automação e-commerce/DTC** — menor fricção porque há rede existente da fase UGC; vender automação em vez de UGC às mesmas marcas
+3. **Jurídico (implementação)** — advIA existe como SaaS mas ninguém vende implementação como agência; tickets altos, mercado menor em PT
+4. **Contabilidade** — hipótese não validada
+
+---
+
+## Estado do Brainstorming
+
+- Skill `/brainstorming` activa, fase: clarificação
+- Apresentadas recomendação principal + alternativas (opção A)
+- Próximo passo ao retomar: utilizador decide entre aprofundar e-commerce/DTC ou manter foco em recepção por voz → depois: propor 2-3 abordagens → design doc → `/writing-plans`
+
+---
+
+## Stack Actual (Viralto/herdado do UGC)
+
+| Componente | Ferramenta | Serve para voz? |
+|---|---|---|
+| LLM | claude-haiku-4-5-20251001 | Sim (scripts/respostas texto) |
+| Automação | Make.com + ugc_system | Parcialmente |
+| Outreach | Gmail SMTP | Sim |
+| Voz | — | Não — precisa ElevenLabs/Twilio/Vapi |
+
+---
+
+## Open Questions
+
+- Stack de voz: ElevenLabs + Twilio + Vapi ou alternativa mais barata?
+- Preço PT: €99/mês (VoiceFleet) é tecto ou piso para clínicas/salões?
+- PRR "IA nas PME" 2025 fechou — verificar ronda 2026 antes de usar em vendas
+- Contabilidade PT: genuinamente sub-servida ou baixa visibilidade?
+
+---
+
+## Referências
+
+- [[Research - Viralto Nicho AI Portugal 2026]] — síntese completa wiki
+- [[MAIS AI Agency]] — concorrente PT a diferenciar
+- [[ciela-ai-agency-niches-2026]] — 12 nichos globais rentáveis
+- [[prr-ia-nas-pme-2025]] — financiamento PT (janela 2025 fechada)
+
+---
+
+## Histórico
+
+- 2026-06-29: decisão de pivot UGC → AI; autoresearch concluída; brainstorming iniciado
+- 2026-06-09: fase UGC — nome Viralto decidido; pendente filmar spec videos (arquivado)
