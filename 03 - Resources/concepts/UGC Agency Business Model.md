@@ -38,6 +38,6 @@ Brand (cliente) → Agência → Criadores (freelance)
 
 ## Ver também
 
-- [[Viralto UGC Agency]] — pipeline técnico actual
+- [[Viralto - Agência AI]] — pipeline técnico actual
 - [[UGC Pricing]] — estrutura de preços
 - [[Research - Viralto UGC Agency Setup]]

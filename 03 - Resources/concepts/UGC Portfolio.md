@@ -50,5 +50,5 @@ O portfolio é o único proof of work necessário para fechar primeiros clientes
 
 ## Ver também
 
-- [[Viralto UGC Agency]] — pipeline técnico
+- [[Viralto - Agência AI]] — pipeline técnico
 - [[Research - Viralto UGC Agency Setup]]

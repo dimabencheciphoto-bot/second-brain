@@ -4,9 +4,9 @@ title: "Research: Viralto UGC Agency Setup"
 created: 2026-06-08
 updated: 2026-06-08
 tags: [research, ugc, viralto, agency, outreach]
-status: developing
+status: archived
 related:
-  - "[[Viralto UGC Agency]]"
+  - "[[Viralto - Agência AI]]"
   - "[[UGC Agency Business Model]]"
   - "[[UGC Cold Outreach]]"
   - "[[UGC Portfolio]]"
@@ -18,6 +18,8 @@ sources:
 ---
 
 # Research: Viralto UGC Agency Setup
+
+> ⚠️ **Arquivado (2026-07-07):** modelo obsoleto — a Viralto pivotou de agência UGC para agência AI em 2026-06-29. Ver [[Viralto - Agência AI]].
 
 ## Overview
 

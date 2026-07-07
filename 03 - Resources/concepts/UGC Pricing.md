@@ -54,6 +54,6 @@ Retainers funcionam melhor quando:
 
 ## Ver também
 
-- [[Viralto UGC Agency]] — pipeline técnico
+- [[Viralto - Agência AI]] — pipeline técnico
 - [[UGC Agency Business Model]] — modelo de negócio e margens
 - [[Research - Viralto UGC Agency Setup]]

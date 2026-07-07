@@ -148,7 +148,7 @@ source: manual | claude | web | pdf
 | Note | Responsibility | Cadência |
 |------|---------------|---------|
 | [[AI Development]] | Overnight Engine, Market Agent, Real Estate, Dashboard | ongoing |
-| [[Viralto UGC Agency]] | Outreach, scripts, deal tracker, client pipeline | ongoing |
+| [[Viralto - Agência AI]] | Outreach, scripts, deal tracker, client pipeline | ongoing |
 
 ---
 

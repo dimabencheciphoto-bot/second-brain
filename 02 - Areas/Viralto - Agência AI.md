@@ -3,7 +3,7 @@ title: "Viralto — Agência AI"
 date: 2026-06-30
 tags: [area, viralto, agencia-ai, pivot]
 status: active
-related: ["[[Research - Viralto AI Agency Pivot 2026]]", "[[AI-Automation-Agency]]"]
+related: ["[[Research - Viralto Nicho AI Portugal 2026]]", "[[AI-Automation-Agency]]", "[[Viralto - Criação de Contas Sociais (2026-07-07)]]"]
 ---
 
 # Viralto — Agência AI

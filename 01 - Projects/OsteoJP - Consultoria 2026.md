@@ -84,5 +84,5 @@ Conteúdo regular, email marketing, tracking de métricas
 ## Notas
 
 - Proposta criada com design light theme (Figtree + Noto Sans)
-- Wiki pages criadas: [[OsteoJP]], [[Thrust-Clinic]], [[Osteoparque]], [[MQ-Osteopatia-Moderna]]
-- Research completo em `wiki/questions/Research-OsteoJP-*.md`
+- Páginas de entidade criadas na Wiki de ficheiros do projecto (não no Second Brain): `Wiki/entities/OsteoJP.md`, `Wiki/entities/Thrust-Clinic.md`, `Wiki/entities/Osteoparque.md`, `Wiki/entities/MQ-Osteopatia-Moderna.md`
+- Research completo em `Wiki/questions/Research-OsteoJP-*.md`

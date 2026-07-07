@@ -4,7 +4,7 @@ date: 2026-06-09
 tags: [project, musa, learning]
 status: active
 area: ai-dev
-related: ["[[Viralto UGC Agency]]", "[[UGC Agency Business Model]]"]
+related: ["[[Viralto - Agência AI]]", "[[UGC Agency Business Model]]"]
 ---
 
 # Musa 1.0 — Module 7: Monetizar
@@ -40,4 +40,4 @@ Próximos passos (em curso):
 - [ ] Lançar cold email batch (20-30 brands)
 - [ ] Fechar primeiro cliente
 
-→ Ver detalhes em [[Viralto UGC Agency]] (02-areas/)
+→ Ver detalhes em [[Viralto - Agência AI]] (02-areas/)

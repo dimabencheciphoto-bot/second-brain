@@ -32,7 +32,7 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | Note | Responsabilidade |
 |------|-----------------|
 | [[AI Development]] | Overnight Engine, Market Agent, Real Estate, Dashboard |
-| [[Viralto UGC Agency]] | Outreach, deal tracker, scripts, cliente pipeline |
+| [[Viralto - Agência AI]] | Outreach, deal tracker, scripts, cliente pipeline |
 | [[Overnight Engine]] | Pipeline automatizado de conteúdo diário |
 | `Token Usage/` | Custos semanais de tokens (vault_tokens.py) | auto |
 | `Market Analysis/` | Análises de mercado EUR/USD + ETFs (vault_market.py) | auto |

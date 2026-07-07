@@ -59,6 +59,6 @@ Faz sentido explorar?
 
 ## Ver também
 
-- [[Viralto UGC Agency]] — sistema técnico de outreach
+- [[Viralto - Agência AI]] — sistema técnico de outreach
 - [[AGENTS]] — ver secção "Ingest / Save" para geração de cold emails via Claude
 - [[Research - Viralto UGC Agency Setup]]
