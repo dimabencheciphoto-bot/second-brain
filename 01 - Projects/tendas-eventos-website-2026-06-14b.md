@@ -6,7 +6,7 @@ status: em-curso
 
 # Site Tendas e Eventos — Sessão 2026-06-14 (tarde)
 
-Continuação da sessão da manhã. Foco em: hero desktop, redesign testemunhos, organização de ficheiros.
+Continuação da sessão da manhã ([[tendas-eventos-website-2026-06-14]]). Foco em: hero desktop, redesign testemunhos, organização de ficheiros.
 
 ## O que foi feito
 

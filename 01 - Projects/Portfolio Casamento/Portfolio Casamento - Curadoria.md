@@ -3,6 +3,7 @@
 **Data:** 2026-06-14  
 **Objectivo:** Candidatura a segundo fotógrafo de casamento  
 **Estado:** ✅ Curadoria concluída
+**Relacionado:** [[Quintas Lisboa — Outreach 2026-06-28]]
 
 ---
 

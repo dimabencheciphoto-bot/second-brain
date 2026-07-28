@@ -2,6 +2,7 @@
 
 **Data:** 2026-06-28
 **Objectivo:** Integrar a lista de fotógrafos recomendados das quintas de casamentos em Lisboa
+**Relacionado:** [[Portfolio Casamento - Curadoria]]
 
 ---
 

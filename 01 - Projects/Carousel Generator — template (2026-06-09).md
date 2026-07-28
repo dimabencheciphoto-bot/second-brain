@@ -3,6 +3,7 @@
 **Data:** 2026-06-09
 **Ficheiro:** `scripts/carousels/template.py`
 **Comando:** `python scripts/carousel_generator.py --style template`
+**Ferramenta:** [[Carousel Generator]]
 
 ---
 

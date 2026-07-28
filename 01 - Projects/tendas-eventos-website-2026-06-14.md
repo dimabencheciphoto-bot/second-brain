@@ -8,6 +8,8 @@ status: em-curso
 
 Continuação do desenvolvimento do site `tendaseeventos.com` em Next.js 16.2.9 App Router + Tailwind v4.
 
+→ Continua em [[tendas-eventos-website-2026-06-14b]] (sessão da tarde)
+
 ## O que foi feito
 
 ### UX/Navigation fix — Header

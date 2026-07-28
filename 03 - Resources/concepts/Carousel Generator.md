@@ -5,7 +5,7 @@ tags: [tool, content, instagram]
 status: active
 area: ai-dev
 source: manual
-related: ["[[AI Patterns]]", "[[MoviePy v2 Patterns]]"]
+related: ["[[AI Patterns]]", "[[MoviePy v2 Patterns]]", "[[Carousel Generator — template (2026-06-09)]]"]
 ---
 
 # Carousel Generator

@@ -2,13 +2,17 @@
 type: session
 title: "Micro-Agência de Conteúdo — Estado 2026-06-11"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-07-28
 tags:
   - micro-agencia
   - prospecao
   - freelance
-status: active
+status: superseded
+related: ["Viralto - Agência AI"]
 ---
+
+> [!info] Estado
+> Arquivado em 2026-07-28 — absorvido pelo pivot da Viralto (2026-06-29). A infra construída aqui (`client_config.py`, `client_carousel.py`, `generate_monthly_content.py`) continua em uso, mas o posicionamento de negócio deste projecto foi substituído.
 
 # Micro-Agência de Conteúdo Social — Estado a 11/06/2026
 

@@ -9,7 +9,7 @@ status: archived
 
 ~~Projecto de lançamento da UGC Agency.~~
 
-Arquivado. O projeto evoluiu para [[Viralto UGC Agency]].
+Arquivado. O projeto evoluiu para [[Viralto - Agência AI]].
 
 ## Related
 
