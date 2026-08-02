@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/concepts/MoviePy v2 Patterns.md",
+                "file": "01 - Projects/Viralto - Demo IA Clínica do Marquês (2026-07-26).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MoviePy v2 Patterns"
+              "title": "Viralto - Demo IA Clínica do Marquês (2026-07-26)"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945,
-    "collapsed": true
+    "width": 224.51103591918945
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -216,7 +217,13 @@
   },
   "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
+    "01 - Projects/Viralto - Semana 1-2 e posicionamento (2026-07-13).md",
+    "01 - Projects/Viralto - Auditoria final e deploy (2026-08-02).md",
     "01 - Projects/Viralto - Site landing page ao vivo (2026-08-01).md",
+    "01 - Projects/Viralto - Auditoria final e deploy (2026-08-02).md.tmp.14444.cdb12b7a3afd",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "03 - Resources/concepts/MoviePy v2 Patterns.md",
     "01 - Projects/Viralto - Site landing page ao vivo (2026-08-01).md.tmp.25468.67adda7a9253",
     "_meta/hot.md",
     "_meta/CLAUDE.md",
@@ -239,29 +246,23 @@
     "01 - Projects/Engine Runs/2026-06-10.md",
     "01 - Projects/Portfolio Casamento/Quintas Lisboa — Outreach 2026-06-28.md.tmp.7856.f51e901bd6d3",
     "01 - Projects/Portfolio Casamento/Portfolio Casamento - Curadoria.md.tmp.7856.3b51a906d848",
-    "03 - Resources/concepts/Carousel Generator.md.tmp.7856.99b40738d289",
     "04 - Archive/Micro-Agência de Conteúdo — Estado 2026-06-11.md",
     "04 - Archive/reciba-ai-fiscal-inbox.md",
     "01 - Projects/Workspace — Estado Geral 2026-06-14.md",
-    "01 - Projects/Viralto - Semana 1-2 e posicionamento (2026-07-13).md",
     "00 - Home/Dashboard.md",
     "01 - Projects/Viralto - Demo IA Clínica do Marquês (2026-07-26).md",
     "01 - Projects/Viralto - Animação do logótipo (2026-07-21).md",
     "01 - Projects/Viralto - Criação de Contas Sociais (2026-07-07).md",
     "02 - Areas/Viralto - Agência AI.md",
     "01 - Projects/Research - Viralto Nicho AI Portugal 2026.md",
-    "03 - Resources/sources/prr-ia-nas-pme-2025.md",
-    "03 - Resources/sources/ciela-ai-agency-niches-2026.md",
     "03 - Resources/concepts/attachments/fable5-frontiercode-cost.png",
     "03 - Resources/concepts/attachments/fable5-benchmark-table.png",
     "03-resources/concepts/attachments/fable5-frontiercode-cost.png",
     "03-resources/concepts/attachments/fable5-benchmark-table.png",
     "Sem título.canvas",
-    "Untitled.canvas",
     "Sem título 1.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
-    "Untitled 1.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 5.canvas",
