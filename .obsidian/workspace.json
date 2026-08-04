@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.76240921020508
+    "width": 237.76240921020508,
+    "collapsed": true
   },
   "right": {
     "id": "4862c41af17a8d4d",
@@ -213,6 +214,9 @@
   },
   "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
+    "01 - Projects/Viralto - Redesign lote-03 video-generator (2026-08-04).md.tmp.18920.a11018c9d18c",
+    "01 - Projects/Viralto - Redesign lote-03 video-generator (2026-08-04).md",
+    "01 - Projects/Viralto - Redesign lote-03 video-generator (2026-08-04).md.tmp.18920.8f740029aaea",
     "01 - Projects/Viralto - Orçamento cliente-facing e IVA (2026-08-02).md",
     "01 - Projects/Viralto - Orçamento cliente-facing e IVA (2026-08-02).md.tmp.22292.6e0e44bb177f",
     "01 - Projects/Viralto - Demo IA Clínica do Marquês (2026-07-26).md",
@@ -243,14 +247,11 @@
     "01 - Projects/Musa 1.0 - Module 7.md",
     "01 - Projects/Dashboard Financeiro Pessoal - Estado (2026-07-25).md",
     "01 - Projects/Engine Runs/2026-06-10.md",
-    "01 - Projects/Portfolio Casamento/Quintas Lisboa — Outreach 2026-06-28.md.tmp.7856.f51e901bd6d3",
     "04 - Archive/Micro-Agência de Conteúdo — Estado 2026-06-11.md",
     "04 - Archive/reciba-ai-fiscal-inbox.md",
     "01 - Projects/Workspace — Estado Geral 2026-06-14.md",
     "00 - Home/Dashboard.md",
     "01 - Projects/Viralto - Animação do logótipo (2026-07-21).md",
-    "01 - Projects/Viralto - Criação de Contas Sociais (2026-07-07).md",
-    "02 - Areas/Viralto - Agência AI.md",
     "03 - Resources/concepts/attachments/fable5-frontiercode-cost.png",
     "03 - Resources/concepts/attachments/fable5-benchmark-table.png",
     "03-resources/concepts/attachments/fable5-frontiercode-cost.png",
