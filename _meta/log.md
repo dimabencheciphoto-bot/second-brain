@@ -1,12 +1,22 @@
 ---
 title: "Log"
-updated: 2026-06-09
+updated: 2026-08-08
 tags: [meta, log]
 ---
 
 # Log
 
 Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
+
+---
+
+## 2026-08-08 — cleanup | Limpeza geral do vault
+
+- **Apagados:** `Untitled.canvas`, `Untitled 1.canvas` (raiz) — canvas vazios (`{}`), sem nome, criados por engano a 2 Ago
+- **Corrigido:** `_meta/CLAUDE.md` e `_meta/AGENTS.md` — descreviam pastas `00-inbox/`, `01-projects/` (minúsculas, sem espaço) que já não existem; actualizados para os nomes reais (`00 - Inbox`, `01 - Projects`, etc.); removidas tabelas "Active Projects/Areas/Knowledge Base" hardcoded em `AGENTS.md` (causa da staleness — agora apontam só para `index.md`/`hot.md`); modelos e pipelines desactualizados corrigidos
+- **Resolvida duplicação:** `03 - Resources/entities/MAIS AI Agency.md` tinha conteúdo integralmente duplicado de `Wiki/entities/MAIS-AI-Agency.md` (repo `dima visual claude`) sem aviso — adicionado o mesmo stub-pointer que já existia noutras 3 notas (`AI-Automation-Agency`, `ciela-ai-agency-niches-2026`, `prr-ia-nas-pme-2025`)
+- **Reconstruídos do zero:** `index.md` (parado desde 2026-06-14) e `hot.md` (parado desde 2026-06-09) — ambos reflectiam menos de metade do conteúdo real do vault (38 notas em Projects vs 4 listadas)
+- **Não alterado:** `04 - Archive/lint-report-2026-06-09.md` vs `04 - Archive/wiki-meta/lint-report-2026-06-08*.md` continuam em sítios diferentes — inconsistente mas inofensivo, deixado por decisão de não mexer em arquivo histórico
 
 ---
 

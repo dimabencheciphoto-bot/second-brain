@@ -1,31 +1,34 @@
 ---
 title: "Hot Cache"
-updated: 2026-06-09
+updated: 2026-08-08
 tags: [meta, cache]
 ---
 
 # Recent Context
 
 ## Last Updated
-2026-06-09. Lint completo: 7 dead links corrigidos, frontmatter 4 UGC concepts fixo, 0 orphans.
+2026-08-08. Limpeza do vault: `index.md`/`hot.md` reconstruídos do zero (estavam parados desde 2026-06-09/14), `_meta/AGENTS.md`+`CLAUDE.md` corrigidos para os nomes de pasta reais (`01 - Projects` em vez de `01-projects`), duplicação `MAIS AI Agency` entre este vault e `Wiki/` do repo resolvida (stub consistente com as outras 3 notas).
 
 ## Key Recent Facts
-- **Skills Inventory:** 160 skills Claude Code documentados em 01-projects/Claude Skills Inventory.md
-- **Estrutura:** PARA (00-inbox → 01-projects → 02-areas → 03-resources → 04-archive)
-- **01-projects (4):** Claude Skills Inventory · Viralto Research · Overnight Engine Credentials · Musa 1.0 Module 7
-- **02-areas (2):** AI Development · Viralto UGC Agency
-- **03-resources/concepts (13):** 8 AI + 4 UGC + Carousel Generator
-- **Overnight Engine:** código PRONTO, falta .env (YouTube OAuth, Meta, TikTok, Telegram)
-- **Viralto pricing:** €40-80/vídeo · Starter €250-300 · Growth €450-500 · Retainer €350/mês + multiplicadores
-- **Musa 1.0:** Módulo 7 em curso = Viralto launch
+- **Estrutura:** PARA (`00 - Inbox` → `01 - Projects` → `02 - Areas` → `03 - Resources` → `04 - Archive`), mais `06 - Fleeting/` e `.raw/`
+- **OsteoJP:** homepage redesenhada ("Percurso do paciente") promovida a `app/page.tsx` 2026-08-08; **deploy ao Vercel ainda pendente**
+- **Viralto:** plano de publicação de 10 dias reconstruído por plataforma (2026-08-07); 4 decisões em aberto (TikTok, LinkedIn, guião duplicado, lote-04); site ao vivo em vercel.app
+- **tendas-eventos:** site Next.js ao vivo, deploy Vercel ~46 dias desactualizado; domínio custom ainda a servir site legado
+- **Packs Workflows Make PT/BR:** produto digital €97/pack; retomar na Secção 3 (newsletter) + writing-plans
+- **Content Factory:** fases 1, 2, 3a, 3b concluídas; próximo passo = variações A/B + publicação IG
+- **Dashboard Financeiro Pessoal:** aberto — mover transacção Serghei Belous 2026-01-20 para categoria Megane?
+- **Portfolio Casamento:** pasta de curadoria criada, 0 fotos analisadas, aguarda 1º lote
+- **Instagram pessoal (@dimabencheci):** reposicionado para "conteúdo + IA para PMEs", pausado antes do guião do 1º Reel
+- **Conhecimento LLM-first** (sources/entities/concepts extensos de pesquisa) vive em `Wiki/` no repo `dima visual claude`, não neste vault — ver nota em `_meta/AGENTS.md` §1
 
 ## Active Threads
-- **Viralto:** spec videos → Carrd → registar viralto.com → cold outreach batch (20-30 brands)
-- **Overnight Engine:** configurar .env → testar end-to-end
-- **dima visual claude:** sem remote GitHub (`gh auth login` pendente)
+- OsteoJP: fazer o deploy pendente ao Vercel
+- Viralto: fechar as 4 decisões do plano de publicação de 10 dias
+- tendas-eventos: resolver DNS do domínio custom + redeploy
+- Second Brain: manter `hot.md`/`index.md` actualizados a cada operação (não deixar voltar a ficar 2 meses parado)
 
 ## Navigation
 - `index.md` → catálogo completo
-- `02-areas/AI Development.md` → estado pipelines
-- `02-areas/Viralto UGC Agency.md` → estado agência
-- `01-projects/` → 3 projectos activos
+- `02 - Areas/AI Development.md` → estado pipelines
+- `02 - Areas/Viralto - Agência AI.md` → estado agência
+- `01 - Projects/` → 28 notas + 3 subpastas activas
