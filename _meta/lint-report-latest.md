@@ -6,7 +6,7 @@ tags: [meta, lint, auto-generated]
 
 # Vault Lint Report
 
-*Gerado automaticamente em 2026-08-26 00:03 por `scripts/vault/vault_lint.py`. Este ficheiro é sobrescrito a cada run — não editar à mão.*
+*Gerado automaticamente em 2026-08-26 00:12 por `scripts/vault/vault_lint.py`. Este ficheiro é sobrescrito a cada run — não editar à mão.*
 
 ## Resumo
 
@@ -16,4 +16,3 @@ tags: [meta, lint, auto-generated]
 - Links partidos: 0
 
 Vault limpo — sem problemas encontrados.
-test
