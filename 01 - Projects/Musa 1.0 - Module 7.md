@@ -5,6 +5,7 @@ tags: [project, musa, learning]
 status: active
 area: ai-dev
 related: ["[[Viralto - Agência AI]]", "[[UGC Agency Business Model]]"]
+summary: "Módulo Monetizar = Viralto launch"
 ---
 
 # Musa 1.0 — Module 7: Monetizar

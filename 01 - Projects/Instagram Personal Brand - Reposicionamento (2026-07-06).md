@@ -3,6 +3,7 @@ title: "Instagram Personal Brand — Reposicionamento @dimabencheci"
 tags: [instagram, personal-brand, viralto, marketing]
 date: 2026-07-06
 status: developing
+summary: "@dimabencheci reposicionado para conteúdo + IA para PMEs (ligado à Viralto), pausado antes do 1º Reel"
 ---
 
 # Instagram Personal Brand — Reposicionamento @dimabencheci

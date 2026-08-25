@@ -1,8 +1,9 @@
 ---
 title: "Site Tendas e Eventos — Sessão 2026-06-14"
 tags: [projecto, web, next-js, cliente]
-created: 2026-06-14
+date: 2026-06-14
 status: developing
+summary: "Site tendas-eventos, sessão 2026-06-14"
 ---
 
 # Site Tendas e Eventos — Sessão 2026-06-14

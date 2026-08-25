@@ -3,6 +3,7 @@ title: "Viralto — Semana 1/2 de conteúdo + pipeline validado + posicionamento
 tags: [viralto, projeto, conteudo]
 date: 2026-07-13
 status: completed
+summary: "publish_reel.py corrigido, sessão IG por reautenticar"
 ---
 
 # Viralto — Semana 1/2 de conteúdo + pipeline validado + posicionamento

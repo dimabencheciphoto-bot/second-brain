@@ -3,6 +3,7 @@ title: "Overnight Engine"
 created: 2026-06-09
 tags: [area, automation, content]
 status: active
+summary: "Pipeline Reddit→script→vídeo→publicação, 2AM diário"
 ---
 
 # Overnight Engine

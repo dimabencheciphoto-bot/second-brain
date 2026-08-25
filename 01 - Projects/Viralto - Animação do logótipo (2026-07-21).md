@@ -3,6 +3,7 @@ title: "Viralto — Animação do logótipo (intro/outro para Reels)"
 tags: [viralto, projeto, video, brand]
 date: 2026-07-21
 status: developing
+summary: "LogoBumper.tsx — intro/outro Remotion"
 ---
 
 # Viralto — Animação do logótipo (intro/outro para Reels)

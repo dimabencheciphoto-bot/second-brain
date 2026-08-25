@@ -5,6 +5,7 @@ tags: [viralto, video-generator, design, redesign]
 status: developing
 area: ai-dev
 related: []
+summary: "Redesign Hook 8 + testes de imagem/animação"
 ---
 
 # Viralto — Redesign visual do lote-03 (guiões 7-9)

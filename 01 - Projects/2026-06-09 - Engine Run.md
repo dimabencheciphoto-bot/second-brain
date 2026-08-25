@@ -3,9 +3,10 @@ title: "Engine Run — 2026-06-09 09:16"
 tags:
   - engine-run
   - overnight-engine
-created: 2026-06-09
+date: 2026-06-09
 status: completed
 area: ai-dev
+summary: "Run do overnight engine, 2026-06-09"
 ---
 
 # ❌ Engine Run — 2026-06-09 09:16

@@ -5,6 +5,7 @@ tags: [project, carousel, viralto, ugc]
 status: completed
 area: ai-dev
 related: ["[[Carousel Generator]]"]
+summary: "Template para gerador de carousels PIL"
 ---
 
 # Carousel Generator — template

@@ -5,6 +5,7 @@ tags: [viralto, redes-sociais, setup]
 status: developing
 area: ai-dev
 related: ["[[Viralto - Agência AI]]"]
+summary: "Criação das contas nas 4 plataformas"
 ---
 
 Status: em progresso

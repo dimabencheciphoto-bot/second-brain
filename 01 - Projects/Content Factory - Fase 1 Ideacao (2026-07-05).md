@@ -1,8 +1,9 @@
 ---
 title: "Content Factory — Fase 1 (Ideação) concluída"
 tags: [content-factory, overnight-engine, instagram, ai-automation]
-created: 2026-07-05
+date: 2026-07-05
 status: active
+summary: "Content Factory: scraping → ideação → raw cut → legendas → B-roll"
 ---
 
 # Content Factory — Fase 1 (Ideação) concluída

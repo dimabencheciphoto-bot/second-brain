@@ -1,7 +1,7 @@
 ---
 type: synthesis
 title: "Research: Nicho AI Agency para Viralto em Portugal 2026"
-created: 2026-06-29
+date: 2026-06-29
 updated: 2026-06-29
 tags: [research, viralto, agencia-ai, portugal, nicho]
 status: developing
@@ -12,6 +12,7 @@ related:
 sources:
   - "[[ciela-ai-agency-niches-2026]]"
   - "[[prr-ia-nas-pme-2025]]"
+summary: "Research de nicho AI Portugal para posicionamento Viralto"
 ---
 
 # Research: Nicho AI Agency para Viralto em Portugal 2026

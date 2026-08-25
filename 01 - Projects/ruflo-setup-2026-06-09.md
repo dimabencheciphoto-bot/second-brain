@@ -5,6 +5,7 @@ tags: [ruflo, setup, automacao]
 status: archived
 area: ai-dev
 related: []
+summary: "Setup inicial do projecto ruflo"
 ---
 
 # Ruflo Setup Completo — 2026-06-09

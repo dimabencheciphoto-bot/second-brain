@@ -5,6 +5,7 @@ tags: [cliente, osteopatia, consultoria, marketing-digital]
 status: active
 area: ai-dev
 related: []
+summary: "Clínica de osteopatia — proposta, site, brand guidelines"
 ---
 
 # OsteoJP — Consultoria de Marketing Digital 2026

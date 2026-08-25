@@ -3,6 +3,7 @@ title: "Viralto — Auditoria final de conversão + deploy"
 tags: [viralto, website, ux, deploy]
 date: 2026-08-02
 status: completed
+summary: "Auditoria de hierarquia CTAs + deploy do site"
 ---
 
 # Viralto — Auditoria final de conversão + deploy

@@ -6,6 +6,7 @@ status: active
 area: ai-dev
 deadline: 2026-07-31
 related: []
+summary: "Produto digital — packs de workflows Make (€97, Gumroad)"
 ---
 
 # Packs Workflows Make para PMEs PT/BR

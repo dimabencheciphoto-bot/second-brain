@@ -5,6 +5,7 @@ tags: [viralto, demo, ia, clinicas-dentarias]
 status: active
 area: ai-dev
 related: ["[[Research - Viralto Nicho AI Portugal 2026]]", "[[Viralto - Semana 1-2 e posicionamento (2026-07-13)]]"]
+summary: "Demo de chat IA para lead real (Clínica do Marquês)"
 ---
 
 ## Contexto

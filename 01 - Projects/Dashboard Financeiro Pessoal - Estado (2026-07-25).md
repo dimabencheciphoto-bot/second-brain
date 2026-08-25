@@ -3,6 +3,7 @@ title: "Dashboard Financeiro Pessoal — Estado"
 tags: [projecto, financas, dashboard]
 date: 2026-07-25
 status: active
+summary: "Extractos BCP → reconciliação → categorização → report.html"
 ---
 
 # Dashboard Financeiro Pessoal — Estado

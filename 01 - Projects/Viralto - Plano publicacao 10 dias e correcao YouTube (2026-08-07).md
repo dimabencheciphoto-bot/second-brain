@@ -5,6 +5,7 @@ tags: [viralto, redes-sociais, plano-conteudo, youtube, instagram]
 status: developing
 area: ai-dev
 related: ["[[Viralto - Semana 1-2 e posicionamento (2026-07-13)]]", "[[Viralto - Site landing page ao vivo (2026-08-01)]]"]
+summary: "Calendário de publicação por plataforma, handle YouTube corrigido"
 ---
 
 # Viralto — Plano de publicação 10 dias + correção do handle YouTube (7 Ago 2026)

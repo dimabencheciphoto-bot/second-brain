@@ -6,9 +6,10 @@ tags:
   - ai
   - silver-economy
   - elder-care
-created: 2026-06-10
+date: 2026-06-10
 status: spec-approved
 source: Claude Code brainstorming session
+summary: "App gestão de medicação (Toma)"
 ---
 
 # Toma — gestor de medicação com IA para famílias com pais idosos

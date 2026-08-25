@@ -5,6 +5,7 @@ tags: [project, overnight-engine, ai-dev]
 status: active
 area: ai-dev
 related: ["[[AI Development]]", "[[AI Patterns]]", "[[MoviePy v2 Patterns]]"]
+summary: "Configurar .env: YouTube, Meta, TikTok, Telegram"
 ---
 
 # Overnight Engine — Credentials Setup

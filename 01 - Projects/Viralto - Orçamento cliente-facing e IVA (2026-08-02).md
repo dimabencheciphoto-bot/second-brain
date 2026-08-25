@@ -5,6 +5,7 @@ tags: [viralto, orcamento, precos, iva]
 status: developing
 area: ai-dev
 related: []
+summary: "Orçamento publicado cliente-facing, IVA +23%"
 ---
 
 # Viralto — Orçamento cliente-facing e tratamento de IVA (2026-08-02)

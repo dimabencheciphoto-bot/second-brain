@@ -5,6 +5,7 @@ tags: [viralto, site, deploy, vercel]
 status: completed
 area: ai-dev
 related: ["[[Viralto - Semana 1-2 e posicionamento (2026-07-13)]]", "[[Research - Viralto Nicho AI Portugal 2026]]"]
+summary: "Deploy do site Viralto no Vercel"
 ---
 
 ## Contexto

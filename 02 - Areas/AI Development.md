@@ -4,6 +4,7 @@ date: 2026-06-09
 tags: [area, ai-dev]
 status: active
 related: ["[[Anthropic SDK]]", "[[AI Patterns]]", "[[Agentic Patterns]]"]
+summary: "Overnight Engine, Content Factory, Dashboard, ferramentas Claude"
 ---
 
 # AI Development

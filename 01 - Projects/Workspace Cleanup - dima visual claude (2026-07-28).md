@@ -3,6 +3,7 @@ title: "Workspace Cleanup — dima visual claude"
 tags: [workspace, manutenção, token_monitor]
 date: 2026-07-28
 status: completed
+summary: "Limpeza de artefactos soltos no workspace do repo"
 ---
 
 # Workspace Cleanup — dima visual claude

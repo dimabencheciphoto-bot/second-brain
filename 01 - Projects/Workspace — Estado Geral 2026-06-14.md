@@ -1,8 +1,9 @@
 ---
 title: "Workspace — Estado Geral (2026-06-14)"
 tags: [workspace, overview, sistemas, estado]
-created: 2026-06-14
+date: 2026-06-14
 status: active
+summary: "Snapshot do estado geral do workspace"
 ---
 
 # Workspace — Estado Geral (2026-06-14)

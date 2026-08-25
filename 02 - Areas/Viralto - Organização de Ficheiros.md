@@ -6,6 +6,7 @@ updated: 2026-07-07
 tags: [viralto, organizacao, workspace]
 related:
   - "[[Viralto - Agência AI]]"
+summary: "Convenção de organização de ficheiros do projecto Viralto"
 ---
 
 # Viralto — Organização de Ficheiros do Workspace

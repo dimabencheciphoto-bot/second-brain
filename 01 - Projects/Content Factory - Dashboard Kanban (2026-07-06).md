@@ -1,7 +1,7 @@
 ---
 type: session
 title: "Content Factory - Dashboard Kanban"
-created: 2026-07-06
+date: 2026-07-06
 updated: 2026-07-06
 tags:
   - content-factory
@@ -10,6 +10,7 @@ tags:
 status: developing
 related:
   - "[[Content Factory - Fase 1 Ideacao (2026-07-05)]]"
+summary: "Dashboard de estado do pipeline Content Factory"
 ---
 
 ## O que é
