@@ -16,19 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "b940396a7d429902",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b940396a7d429902",
+  "active": "8c71d1cdba9b31a9",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "06 - Fleeting/Untitled.base",
+    "Untitled.canvas",
     "Excalidraw/Drawing 2026-08-17 20.12.12.excalidraw.md",
     "Excalidraw",
     "_meta/log.md",
