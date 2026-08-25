@@ -49,7 +49,7 @@ Completed projects, deprecated materials, old research. Never delete — archive
 ### 06 - Fleeting/
 Quick session snapshots not yet filed into a proper project/area note. Process periodically like the inbox.
 
-### templates/
+### 05 - Templates/
 Standardized note formats. Use these to create new notes with consistent frontmatter.
 
 ### .raw/
@@ -115,12 +115,12 @@ source: manual | claude | web | pdf
 4. Flag gaps if found
 
 ### "Start a project: [name]"
-1. Use `templates/project-template.md`
+1. Use `05 - Templates/project-template.md`
 2. Create in `01 - Projects/[name].md`
 3. Add to `index.md`
 
 ### "Create area note: [name]"
-1. Use `templates/area-template.md`
+1. Use `05 - Templates/area-template.md`
 2. Create in `02 - Areas/[name].md`
 3. Add to `index.md`
 

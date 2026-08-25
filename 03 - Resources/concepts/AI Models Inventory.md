@@ -1,4 +1,5 @@
 ---
+title: "AI Models Inventory"
 tags:
   - ai/models
   - config

@@ -1,4 +1,5 @@
 ---
+title: "UGC Agency Blueprint — startaugcagency.com"
 type: source
 source_type: web
 url: https://www.startaugcagency.com/the-blueprint

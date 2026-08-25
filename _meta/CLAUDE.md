@@ -23,7 +23,7 @@ Second Brain/
 │   └── entities/          ← people, orgs, products
 ├── 04 - Archive/          ← completed projects (never delete)
 ├── 06 - Fleeting/         ← quick session snapshots, not yet filed
-├── templates/             ← standardized note formats
+├── 05 - Templates/        ← standardized note formats
 └── .raw/                  ← immutable source documents (never modify)
     ├── web/
     ├── pdf/

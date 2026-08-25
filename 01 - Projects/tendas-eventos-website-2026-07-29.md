@@ -1,7 +1,8 @@
 ---
+title: "Site Tendas e Eventos — Revisão Web Interface Guidelines (Vercel), 2026-07-29"
 tags: [projecto, web, next-js, cliente, accessibilidade, code-review]
 created: 2026-07-29
-status: em-curso
+status: developing
 ---
 
 # Site Tendas e Eventos — Revisão Web Interface Guidelines (Vercel), 2026-07-29

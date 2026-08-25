@@ -1,4 +1,5 @@
 ---
+title: "UGC Pricing 2025 — superscale.ai"
 type: source
 source_type: web
 url: https://superscale.ai/learn/how-much-does-ugc-cost-real-pricing-breakdown-for-2025/

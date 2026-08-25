@@ -1,6 +1,8 @@
 ---
+title: "Instagram Personal Brand — Reposicionamento @dimabencheci"
 tags: [instagram, personal-brand, viralto, marketing]
 date: 2026-07-06
+status: developing
 ---
 
 # Instagram Personal Brand — Reposicionamento @dimabencheci

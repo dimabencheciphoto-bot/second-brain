@@ -1,6 +1,8 @@
 ---
+title: "Viralto — Auditoria final de conversão + deploy"
 tags: [viralto, website, ux, deploy]
-data: 2026-08-02
+date: 2026-08-02
+status: completed
 ---
 
 # Viralto — Auditoria final de conversão + deploy

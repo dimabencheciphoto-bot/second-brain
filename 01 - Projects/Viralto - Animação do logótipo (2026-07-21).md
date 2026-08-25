@@ -1,6 +1,8 @@
 ---
+title: "Viralto — Animação do logótipo (intro/outro para Reels)"
 tags: [viralto, projeto, video, brand]
 date: 2026-07-21
+status: developing
 ---
 
 # Viralto — Animação do logótipo (intro/outro para Reels)

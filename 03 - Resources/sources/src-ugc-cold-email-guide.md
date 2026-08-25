@@ -1,4 +1,5 @@
 ---
+title: "How to Secure UGC Deals Through Cold Email — mailead.io"
 type: source
 source_type: web
 url: https://mailead.io/blog/how-to-secure-ugc-deals-through-cold-email-a-step-by-step-guide

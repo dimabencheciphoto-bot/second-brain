@@ -1,7 +1,8 @@
 ---
+title: "Site Tendas e Eventos — Auditoria SEO + fix opengraph-image + estado do deploy Vercel, 2026-07-30"
 tags: [projecto, web, next-js, cliente, seo, deploy]
 created: 2026-07-30
-status: em-curso
+status: developing
 ---
 
 # Site Tendas e Eventos — Auditoria SEO + fix opengraph-image + estado do deploy Vercel, 2026-07-30

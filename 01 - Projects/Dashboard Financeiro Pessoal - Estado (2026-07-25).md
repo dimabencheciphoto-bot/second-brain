@@ -1,6 +1,8 @@
 ---
+title: "Dashboard Financeiro Pessoal — Estado"
 tags: [projecto, financas, dashboard]
-data: 2026-07-25
+date: 2026-07-25
+status: active
 ---
 
 # Dashboard Financeiro Pessoal — Estado

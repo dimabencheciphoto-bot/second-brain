@@ -2,17 +2,20 @@
 type: synthesis
 title: "Claude Skills Inventory"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-25
 tags:
   - claude
   - skills
   - inventory
   - reference
-status: developing
+status: archived
 related:
   - "[[AI Development]]"
   - "[[Obsidian Skills]]"
 ---
+
+> [!warning] Desactualizado (arquivado 2026-08-25)
+> Este inventário reflecte o estado de `~/.claude/skills/` em 2026-06-09 (~160 skills). Verificado a 2026-08-25: os ~137 skills das secções 4 (SPARC, Swarm, Hive-Mind, Hooks, Memory, Coordination, Agents, Analysis, GitHub, Optimization, Monitoring, Workflows, Automation — framework claude-flow) já não existem no sistema. `~/.claude/skills/` tem hoje 164 skills instalados, um conjunto diferente do listado abaixo. Mantido como referência histórica; não usar para saber que skills estão disponíveis agora — para isso, listar `~/.claude/skills/` directamente.
 
 # Claude Skills Inventory
 

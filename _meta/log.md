@@ -10,6 +10,19 @@ Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
 
 ---
 
+## 2026-08-25b — audit | Auditoria de qualidade, 2ª ronda (8 itens)
+
+- **`status: activo` → `active`** corrigido em `Workspace — Estado Geral 2026-06-14.md`.
+- **Frontmatter completado em 26 notas genuínas** (scan fino refeito por *tipo* de nota — o scan inicial de ~57 ficheiros tinha falsos positivos: `03 - Resources/concepts|entities|sources` e `_meta/*` usam `created`/`updated` em vez de `date`, por convenção legítima, não por erro). Adicionado `title` em falta (12 notas de `01 - Projects/`, 2 `concepts/`, 3 `sources/`, 1 `04 - Archive/`); `status` em falta preenchido em 6 notas (`Dashboard Financeiro`, `Instagram Personal Brand`, `Viralto Auditoria`, `Viralto Semana 1-2`, `Workspace Cleanup`, `Viralto Animação logótipo`); 2 typos `data:`→`date:` corrigidos; `status: em-curso` (4 notas tendas-eventos) normalizado para `developing`; frontmatter completo adicionado a 3 notas de `06 - Fleeting/` que não tinham nenhum.
+- **3 ficheiros lixo apagados:** `Untitled.canvas`, `06 - Fleeting/Untitled.base`, `Excalidraw/Drawing 2026-08-17 20.12.12.excalidraw.md` — todos criados por clique perdido a 17 Ago, conteúdo vazio confirmado antes de apagar.
+- **`Claude Skills Inventory.md` arquivada** (`01 - Projects/` → `04 - Archive/`, `status: archived`) com aviso de staleness: as secções SPARC/Swarm/Hive-Mind/Hooks/Memory/Coordination/Agents/Analysis/GitHub/Optimization/Monitoring/Workflows/Automation (~137 skills, framework claude-flow) já não existem em `~/.claude/skills/`, que hoje tem 164 skills diferentes.
+- **Bug de case-sensitivity corrigido** em `scripts/vault/vault_session.py` (repo `dima visual claude`): `RESOURCES_DIR` apontava para `03 - Resources/Concepts` (capital C), pasta real é `concepts` — funcionava por acaso no Windows, partia-se em Linux/Mac.
+- **`templates/` renomeada para `05 - Templates/`** — alinhado com a config dos plugins Obsidian (`templater-obsidian/data.json`, `.obsidian/templates.json`) que já apontavam para `05 - Templates` (a pasta tinha sido despromovida em data desconhecida sem os plugins serem actualizados). Referências corrigidas em `_meta/AGENTS.md` e `_meta/CLAUDE.md`.
+- **`vault_tokens.py`/`vault_ugc.py` agendados no Task Scheduler.** Descoberta importante: já existia uma task `VaultTokenSummary` (semanal, segundas 09:00) criada anteriormente, mas **desactivada e a apontar para um caminho errado** (`dima visual claude\vault_tokens.py`, ficheiro não existe aí — está em `scripts\vault\`) — nunca tinha corrido com sucesso. Corrigido o caminho e activada. Criada `VaultUGCSummary` de raiz (segundas 09:05), mesmo padrão. Ambas testadas manualmente: `vault_ugc.py` funciona e escreveu `01 - Projects/UGC Agency/pipeline-2026-08-25.md` (39 activos); `vault_tokens.py` corre sem erro mas reporta "sem calls" porque `~/.anthropic_usage.json` não tem entradas novas desde 2026-06-14 (achado, não resolvido nesta passagem — ver `hot.md` → Active Threads).
+- **Aviso de staleness do `hot.md`** construído como novo passo no skill `/morning` (`.agents/skills/morning/SKILL.md`): lê o `updated:` de `hot.md`, assinala no resumo do Telegram se tiver mais de 7 dias.
+
+---
+
 ## 2026-08-25 — audit | Auditoria de qualidade ("pensa como programador profissional")
 
 - **Frontmatter preenchido em 17 notas de `01 - Projects/`** que não tinham YAML (título/data/tags/status/area/related), incluindo as 6 `Engine Runs/`, `UGC Outreach Runs/2026-07-04.md`, `ruflo-setup-2026-06-09.md`, `Carousel Generator — template`, `OsteoJP - Consultoria 2026`, `Portfolio Casamento/*` (2 notas), 5 notas Viralto. Conteúdo do corpo não foi tocado.

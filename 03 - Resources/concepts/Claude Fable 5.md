@@ -1,4 +1,5 @@
 ---
+title: "Claude Fable 5"
 tags:
   - ai/models
   - research

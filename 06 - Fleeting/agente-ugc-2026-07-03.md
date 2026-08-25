@@ -1,3 +1,9 @@
+---
+title: "Agente UGC — Sessão 2026-07-03"
+date: 2026-07-03
+tags: [ugc, fleeting, session]
+---
+
 # Agente UGC — Sessão 2026-07-03
 
 ## O que é

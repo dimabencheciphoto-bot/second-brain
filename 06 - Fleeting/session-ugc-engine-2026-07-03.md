@@ -1,4 +1,10 @@
-﻿# Sessão — Pipeline UGC + Fix Engine
+﻿---
+title: "Sessão — Pipeline UGC + Fix Engine"
+date: 2026-07-03
+tags: [ugc, engine, fleeting, session]
+---
+
+# Sessão — Pipeline UGC + Fix Engine
 **Data:** 2026-07-03
 
 ## O que foi feito

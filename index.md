@@ -14,11 +14,10 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 
 | Note | Tópico | Status |
 |------|--------|--------|
-| [[Claude Skills Inventory]] | Inventário ~160 skills Claude Code instaladas | developing |
 | [[Content Factory - Fase 1 Ideacao (2026-07-05)]] | Content Factory: scraping → ideação → raw cut → legendas → B-roll | active |
 | [[Content Factory - Dashboard Kanban (2026-07-06)]] | Dashboard de estado do pipeline Content Factory | developing |
 | [[Dashboard Financeiro Pessoal - Estado (2026-07-25)]] | Extractos BCP → reconciliação → categorização → report.html | active |
-| [[Instagram Personal Brand - Reposicionamento (2026-07-06)]] | @dimabencheci reposicionado para conteúdo + IA para PMEs (ligado à Viralto) | pausado antes do 1º Reel |
+| [[Instagram Personal Brand - Reposicionamento (2026-07-06)]] | @dimabencheci reposicionado para conteúdo + IA para PMEs (ligado à Viralto), pausado antes do 1º Reel | developing |
 | [[Musa 1.0 - Module 7]] | Módulo Monetizar = Viralto launch | active |
 | [[OsteoJP - Consultoria 2026]] | Clínica de osteopatia — proposta, site, brand guidelines | active |
 | [[Overnight Engine - Credentials Setup]] | Configurar .env: YouTube, Meta, TikTok, Telegram | active |
@@ -31,17 +30,17 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[Viralto - Orçamento cliente-facing e IVA (2026-08-02)]] | Orçamento publicado cliente-facing, IVA +23% | developing |
 | [[Viralto - Plano publicacao 10 dias e correcao YouTube (2026-08-07)]] | Calendário de publicação por plataforma, handle YouTube corrigido | developing |
 | [[Viralto - Redesign lote-03 video-generator (2026-08-04)]] | Redesign Hook 8 + testes de imagem/animação | developing |
-| [[Viralto - Semana 1-2 e posicionamento (2026-07-13)]] | publish_reel.py corrigido, sessão IG por reautenticar | — |
+| [[Viralto - Semana 1-2 e posicionamento (2026-07-13)]] | publish_reel.py corrigido, sessão IG por reautenticar | completed |
 | [[Viralto - Site landing page ao vivo (2026-08-01)]] | Deploy do site Viralto no Vercel | completed |
-| [[Workspace Cleanup - dima visual claude (2026-07-28)]] | Limpeza de artefactos soltos no workspace do repo | — |
-| [[Workspace — Estado Geral 2026-06-14]] | Snapshot do estado geral do workspace | activo |
+| [[Workspace Cleanup - dima visual claude (2026-07-28)]] | Limpeza de artefactos soltos no workspace do repo | completed |
+| [[Workspace — Estado Geral 2026-06-14]] | Snapshot do estado geral do workspace | active |
 | [[Carousel Generator — template (2026-06-09)]] | Template para gerador de carousels PIL | completed |
 | [[ruflo-setup-2026-06-09]] | Setup inicial do projecto ruflo | archived |
 | [[2026-06-09 - Engine Run]] | Run do overnight engine, 2026-06-09 | completed |
-| [[tendas-eventos-website-2026-06-14]] | Site tendas-eventos, sessão 2026-06-14 | em-curso |
-| [[tendas-eventos-website-2026-06-14b]] | Site tendas-eventos, sessão 2026-06-14 (cont.) | em-curso |
-| [[tendas-eventos-website-2026-07-29]] | Site tendas-eventos, sessão 2026-07-29 | em-curso |
-| [[tendas-eventos-website-2026-07-30]] | Site tendas-eventos, sessão 2026-07-30 | em-curso |
+| [[tendas-eventos-website-2026-06-14]] | Site tendas-eventos, sessão 2026-06-14 | developing |
+| [[tendas-eventos-website-2026-06-14b]] | Site tendas-eventos, sessão 2026-06-14 (cont.) | developing |
+| [[tendas-eventos-website-2026-07-29]] | Site tendas-eventos, sessão 2026-07-29 | developing |
+| [[tendas-eventos-website-2026-07-30]] | Site tendas-eventos, sessão 2026-07-30 | developing |
 | [[toma-medication-manager]] | App gestão de medicação (Toma) | spec-approved |
 
 ### 01 - Projects/Engine Runs
@@ -55,6 +54,9 @@ Runs diárias do overnight engine: `2026-06-10` a `2026-06-14`, `2026-07-04`.
 
 ### 01 - Projects/UGC Outreach Runs
 Run de outreach UGC: `2026-07-04`.
+
+### 01 - Projects/UGC Agency
+Snapshots semanais do pipeline UGC, gerados automaticamente por `scripts/vault/vault_ugc.py` (Task Scheduler, `VaultUGCSummary`, segundas 09:05): `pipeline-2026-08-25` em diante.
 
 ---
 
@@ -95,6 +97,7 @@ UGC/Business: [[AI-Automation-Agency]]¹, [[UGC Agency Business Model]], [[UGC C
 
 | Note | Tópico |
 |------|--------|
+| [[Claude Skills Inventory]] | Inventário de skills Claude Code — desactualizado desde 2026-06-09, ver aviso na nota |
 | [[Market Analysis]] | Análise de mercado arquivada |
 | [[Micro-Agência de Conteúdo — Estado 2026-06-11]] | Estado do projecto micro-agência de conteúdo |
 | [[Research - Viralto UGC Agency Setup]] | Setup original Viralto UGC (pré-pivot para AI) |

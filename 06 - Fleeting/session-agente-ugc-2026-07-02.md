@@ -1,4 +1,10 @@
-﻿# Sessão — Agente de Prospecção UGC
+﻿---
+title: "Sessão — Agente de Prospecção UGC"
+date: 2026-07-02
+tags: [ugc, fleeting, session]
+---
+
+# Sessão — Agente de Prospecção UGC
 **Data:** 2026-07-02
 
 ## O que foi construído

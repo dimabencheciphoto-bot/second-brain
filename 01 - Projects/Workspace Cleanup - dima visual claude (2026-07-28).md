@@ -1,6 +1,8 @@
 ---
+title: "Workspace Cleanup — dima visual claude"
 tags: [workspace, manutenção, token_monitor]
 date: 2026-07-28
+status: completed
 ---
 
 # Workspace Cleanup — dima visual claude
