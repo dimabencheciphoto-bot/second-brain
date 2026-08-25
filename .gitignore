@@ -1,0 +1,13 @@
+# Estado local do Obsidian — não é conteúdo, é UI (separadores abertos,
+# posição do cursor, largura das barras laterais). Muda a cada sessão e só
+# gera ruído nos diffs/commits sem nunca haver informação real para rever.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Notas apagadas via Obsidian vão para aqui antes de serem removidas de vez
+.trash/
+
+# Lixo de SO
+.DS_Store
+Thumbs.db
