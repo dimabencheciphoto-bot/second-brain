@@ -1,3 +1,12 @@
+---
+title: "Viralto — Plano de publicação 10 dias + correção do handle YouTube"
+date: 2026-08-07
+tags: [viralto, redes-sociais, plano-conteudo, youtube, instagram]
+status: developing
+area: ai-dev
+related: ["[[Viralto - Semana 1-2 e posicionamento (2026-07-13)]]", "[[Viralto - Site landing page ao vivo (2026-08-01)]]"]
+---
+
 # Viralto — Plano de publicação 10 dias + correção do handle YouTube (7 Ago 2026)
 
 Continuação de [[Viralto - Semana 1-2 e posicionamento (2026-07-13)]] e [[Viralto - Site landing page ao vivo (2026-08-01)]]. Depois da primeira publicação real na @viralto.ai (carrossel "5 sinais", 6 Ago), foi preciso reconstruir o calendário de 10 dias para não repetir conteúdo já publicado — a primeira versão do plano tinha sido feita sem verificar o que já estava online.

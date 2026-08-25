@@ -1,3 +1,12 @@
+---
+title: "Viralto — Criação de Contas Sociais"
+date: 2026-07-07
+tags: [viralto, redes-sociais, setup]
+status: developing
+area: ai-dev
+related: ["[[Viralto - Agência AI]]"]
+---
+
 Status: em progresso
 Projecto: [[Viralto - Agência AI]]
 

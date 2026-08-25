@@ -1,3 +1,12 @@
+---
+title: "OsteoJP — Consultoria de Marketing Digital 2026"
+date: 2026-06-29
+tags: [cliente, osteopatia, consultoria, marketing-digital]
+status: active
+area: ai-dev
+related: []
+---
+
 # OsteoJP — Consultoria de Marketing Digital 2026
 
 **Data:** 2026-06-29

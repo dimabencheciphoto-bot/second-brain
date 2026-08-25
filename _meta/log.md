@@ -1,12 +1,22 @@
 ---
 title: "Log"
-updated: 2026-08-08
+updated: 2026-08-25
 tags: [meta, log]
 ---
 
 # Log
 
 Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
+
+---
+
+## 2026-08-25 — audit | Auditoria de qualidade ("pensa como programador profissional")
+
+- **Frontmatter preenchido em 17 notas de `01 - Projects/`** que não tinham YAML (título/data/tags/status/area/related), incluindo as 6 `Engine Runs/`, `UGC Outreach Runs/2026-07-04.md`, `ruflo-setup-2026-06-09.md`, `Carousel Generator — template`, `OsteoJP - Consultoria 2026`, `Portfolio Casamento/*` (2 notas), 5 notas Viralto. Conteúdo do corpo não foi tocado.
+- **`index.md` — coluna Status corrigida:** ~14 células que estavam em branco (`—`) preenchidas com um dos 4 valores válidos (`active`/`developing`/`completed`/`archived`), a partir do frontmatter acabado de adicionar.
+- **Investigado `scripts/vault/vault_tokens.py` e `vault_ugc.py`** (repo `dima visual claude`): código funcional e correcto (lê `~/.anthropic_usage.json` e `ugc_system/output/deals.csv`, ambos existentes), mas **nunca foram corridos em produção** — não estão no Task Scheduler nem chamados por nenhum outro script (só `vault_market.py` está ligado, via `scripts/market_agent.py`). As pastas-alvo (`02 - Areas/Token Usage/`, `01 - Projects/UGC Agency/`) não existem no vault porque nunca correram, não por bug. Decisão de agendar ou remover fica pendente (ver `hot.md` → Active Threads).
+- **`hot.md` corrigido** — tinha 2 factos desactualizados desde 08-08: (1) dizia "deploy OsteoJP ao Vercel ainda pendente", já estava feito; (2) não mencionava que `lote-04`/`lote-05` do Viralto já existem (9/21 Ago). **Confirma-se que o "Active Thread" de manter `hot.md` actualizado a cada operação voltou a falhar** — desta vez só 17 dias (08-08 → 08-25), depois de já ter falhado 2 meses antes disso. Não há mecanismo automático de invalidação, só disciplina manual — continua por resolver.
+- **Não alterado nesta passagem** (fora do âmbito pedido): 3 ficheiros "Untitled" criados por clique perdido a 17 Ago (`Untitled.canvas`, `06 - Fleeting/Untitled.base`, `Excalidraw/Drawing 2026-08-17 20.12.12.excalidraw.md`); numeração de pastas sem `05`/`templates` sem número; `Claude Skills Inventory.md` desactualizada desde 09 Jun.
 
 ---
 

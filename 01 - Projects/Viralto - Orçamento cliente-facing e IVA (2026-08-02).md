@@ -1,3 +1,12 @@
+---
+title: "Viralto — Orçamento cliente-facing e tratamento de IVA"
+date: 2026-08-02
+tags: [viralto, orcamento, precos, iva]
+status: developing
+area: ai-dev
+related: []
+---
+
 # Viralto — Orçamento cliente-facing e tratamento de IVA (2026-08-02)
 
 ## Contexto

@@ -1,3 +1,12 @@
+---
+title: "Quintas Lisboa — Outreach de Parceria"
+date: 2026-06-28
+tags: [portfolio, casamento, outreach, quintas]
+status: active
+area: personal
+related: ["[[Portfolio Casamento - Curadoria]]"]
+---
+
 # Quintas Lisboa — Outreach de Parceria
 
 **Data:** 2026-06-28

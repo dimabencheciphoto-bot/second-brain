@@ -1,3 +1,12 @@
+---
+title: "Portfolio Casamento — Curadoria"
+date: 2026-06-14
+tags: [portfolio, casamento, fotografia]
+status: completed
+area: personal
+related: ["[[Quintas Lisboa — Outreach 2026-06-28]]"]
+---
+
 # Portfolio Casamento — Curadoria
 
 **Data:** 2026-06-14  

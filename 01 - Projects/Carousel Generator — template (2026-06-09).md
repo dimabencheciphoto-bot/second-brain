@@ -1,3 +1,12 @@
+---
+title: "Carousel Generator — template"
+date: 2026-06-09
+tags: [project, carousel, viralto, ugc]
+status: completed
+area: ai-dev
+related: ["[[Carousel Generator]]"]
+---
+
 # Carousel Generator — template
 
 **Data:** 2026-06-09

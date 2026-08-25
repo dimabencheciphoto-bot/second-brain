@@ -1,3 +1,12 @@
+---
+title: "Viralto — Redesign visual do lote-03 (guiões 7-9)"
+date: 2026-08-04
+tags: [viralto, video-generator, design, redesign]
+status: developing
+area: ai-dev
+related: []
+---
+
 # Viralto — Redesign visual do lote-03 (guiões 7-9)
 
 **Data:** 2026-08-04

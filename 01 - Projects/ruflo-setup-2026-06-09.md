@@ -1,3 +1,12 @@
+---
+title: "Ruflo Setup Completo — 2026-06-09"
+date: 2026-06-09
+tags: [ruflo, setup, automacao]
+status: archived
+area: ai-dev
+related: []
+---
+
 # Ruflo Setup Completo — 2026-06-09
 
 ## O que é o Ruflo

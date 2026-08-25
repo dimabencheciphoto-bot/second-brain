@@ -1,3 +1,12 @@
+---
+title: "Viralto — Demo IA Clínica do Marquês"
+date: 2026-07-26
+tags: [viralto, demo, ia, clinicas-dentarias]
+status: active
+area: ai-dev
+related: ["[[Research - Viralto Nicho AI Portugal 2026]]", "[[Viralto - Semana 1-2 e posicionamento (2026-07-13)]]"]
+---
+
 ## Contexto
 
 Demo de assistente de IA para o lead real **Clínica Dentária do Marquês** (Marquês de Pombal, Lisboa, 4.9★, 827 avaliações Google), no âmbito da oferta Viralto para clínicas dentárias (`viralto/oferta/clinicas-dentarias/`).

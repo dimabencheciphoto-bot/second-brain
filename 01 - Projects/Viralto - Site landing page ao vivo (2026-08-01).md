@@ -1,3 +1,12 @@
+---
+title: "Viralto — Site landing page ao vivo"
+date: 2026-08-01
+tags: [viralto, site, deploy, vercel]
+status: completed
+area: ai-dev
+related: ["[[Viralto - Semana 1-2 e posicionamento (2026-07-13)]]", "[[Research - Viralto Nicho AI Portugal 2026]]"]
+---
+
 ## Contexto
 
 Landing page da Viralto (`viralto/site`, Next.js + Tailwind v4 + framer-motion, tema escuro, cores `--color-carvao`/`--color-laranja`/`--color-branco-quente`) recebeu um lote de afinações de conteúdo e foi publicada em produção via Vercel.

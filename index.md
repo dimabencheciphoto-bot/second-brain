@@ -1,6 +1,6 @@
 ---
 title: "Second Brain Index"
-updated: 2026-08-08
+updated: 2026-08-25
 tags: [meta, index]
 ---
 
@@ -17,26 +17,26 @@ Catálogo master. Uma linha por página. Actualizar em cada operação.
 | [[Claude Skills Inventory]] | Inventário ~160 skills Claude Code instaladas | developing |
 | [[Content Factory - Fase 1 Ideacao (2026-07-05)]] | Content Factory: scraping → ideação → raw cut → legendas → B-roll | active |
 | [[Content Factory - Dashboard Kanban (2026-07-06)]] | Dashboard de estado do pipeline Content Factory | developing |
-| [[Dashboard Financeiro Pessoal - Estado (2026-07-25)]] | Extractos BCP → reconciliação → categorização → report.html | — |
+| [[Dashboard Financeiro Pessoal - Estado (2026-07-25)]] | Extractos BCP → reconciliação → categorização → report.html | active |
 | [[Instagram Personal Brand - Reposicionamento (2026-07-06)]] | @dimabencheci reposicionado para conteúdo + IA para PMEs (ligado à Viralto) | pausado antes do 1º Reel |
 | [[Musa 1.0 - Module 7]] | Módulo Monetizar = Viralto launch | active |
 | [[OsteoJP - Consultoria 2026]] | Clínica de osteopatia — proposta, site, brand guidelines | active |
 | [[Overnight Engine - Credentials Setup]] | Configurar .env: YouTube, Meta, TikTok, Telegram | active |
 | [[Packs Workflows Make PT-BR]] | Produto digital — packs de workflows Make (€97, Gumroad) | active |
 | [[Research - Viralto Nicho AI Portugal 2026]] | Research de nicho AI Portugal para posicionamento Viralto | developing |
-| [[Viralto - Animação do logótipo (2026-07-21)]] | LogoBumper.tsx — intro/outro Remotion | — |
-| [[Viralto - Auditoria final e deploy (2026-08-02)]] | Auditoria de hierarquia CTAs + deploy do site | — |
-| [[Viralto - Criação de Contas Sociais (2026-07-07)]] | Criação das contas nas 4 plataformas | — |
-| [[Viralto - Demo IA Clínica do Marquês (2026-07-26)]] | Demo de chat IA para lead real (Clínica do Marquês) | — |
-| [[Viralto - Orçamento cliente-facing e IVA (2026-08-02)]] | Orçamento publicado cliente-facing, IVA +23% | — |
-| [[Viralto - Plano publicacao 10 dias e correcao YouTube (2026-08-07)]] | Calendário de publicação por plataforma, handle YouTube corrigido | — |
-| [[Viralto - Redesign lote-03 video-generator (2026-08-04)]] | Redesign Hook 8 + testes de imagem/animação | — |
+| [[Viralto - Animação do logótipo (2026-07-21)]] | LogoBumper.tsx — intro/outro Remotion | developing |
+| [[Viralto - Auditoria final e deploy (2026-08-02)]] | Auditoria de hierarquia CTAs + deploy do site | completed |
+| [[Viralto - Criação de Contas Sociais (2026-07-07)]] | Criação das contas nas 4 plataformas | developing |
+| [[Viralto - Demo IA Clínica do Marquês (2026-07-26)]] | Demo de chat IA para lead real (Clínica do Marquês) | active |
+| [[Viralto - Orçamento cliente-facing e IVA (2026-08-02)]] | Orçamento publicado cliente-facing, IVA +23% | developing |
+| [[Viralto - Plano publicacao 10 dias e correcao YouTube (2026-08-07)]] | Calendário de publicação por plataforma, handle YouTube corrigido | developing |
+| [[Viralto - Redesign lote-03 video-generator (2026-08-04)]] | Redesign Hook 8 + testes de imagem/animação | developing |
 | [[Viralto - Semana 1-2 e posicionamento (2026-07-13)]] | publish_reel.py corrigido, sessão IG por reautenticar | — |
-| [[Viralto - Site landing page ao vivo (2026-08-01)]] | Deploy do site Viralto no Vercel | — |
+| [[Viralto - Site landing page ao vivo (2026-08-01)]] | Deploy do site Viralto no Vercel | completed |
 | [[Workspace Cleanup - dima visual claude (2026-07-28)]] | Limpeza de artefactos soltos no workspace do repo | — |
 | [[Workspace — Estado Geral 2026-06-14]] | Snapshot do estado geral do workspace | activo |
-| [[Carousel Generator — template (2026-06-09)]] | Template para gerador de carousels PIL | — |
-| [[ruflo-setup-2026-06-09]] | Setup inicial do projecto ruflo | — |
+| [[Carousel Generator — template (2026-06-09)]] | Template para gerador de carousels PIL | completed |
+| [[ruflo-setup-2026-06-09]] | Setup inicial do projecto ruflo | archived |
 | [[2026-06-09 - Engine Run]] | Run do overnight engine, 2026-06-09 | completed |
 | [[tendas-eventos-website-2026-06-14]] | Site tendas-eventos, sessão 2026-06-14 | em-curso |
 | [[tendas-eventos-website-2026-06-14b]] | Site tendas-eventos, sessão 2026-06-14 (cont.) | em-curso |
