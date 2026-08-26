@@ -26,7 +26,7 @@ tags: [meta, cache]
 - Viralto: confirmar qual direcção de design venceu no lote-03/04/05 + fechar as decisões do plano de publicação de 10 dias
 - tendas-eventos: resolver DNS do domínio custom + redeploy
 - Portfolio Casamento: editar/exportar as 28 fotos seleccionadas, enviar candidaturas
-- **token_monitor:** Sem novas calls há 72 dias (última: 2026-06-14). token_monitor pode estar partido. (detectado por `vault_tokens.py` em 2026-08-26)
+- **token_monitor:** Sem novas calls há 73 dias (última: 2026-06-14). token_monitor pode estar partido. (detectado por `vault_tokens.py` em 2026-08-26)
 - Second Brain: manter `hot.md`/`index.md` actualizados a cada operação — já falhou duas vezes antes (2 meses, depois 17 dias); agora há um aviso automático no `/morning` se `hot.md` passar de 7 dias sem actualizar, mas continua a exigir que alguém aja sobre o aviso
 
 ## Navigation
