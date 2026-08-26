@@ -150,3 +150,29 @@ Depois disso, Dima pediu 3 direcções visuais fundamentalmente diferentes para 
 - Build e `tsc --noEmit` confirmados limpos; verificado localmente em produção (`npx next start -p 4173`) desktop+mobile.
 
 **Pendente:** deploy a produção da nova homepage — a versão ao vivo em osteojp-site.vercel.app é ainda a antiga (pré-redesign). Depois do deploy, considerar re-correr `/impeccable critique` sobre a versão nova.
+
+> **Correcção (2026-08-25):** confirmado via `vercel ls` que este deploy **já foi feito** — o deployment mais recente do projecto `osteojp-site` tem 17 dias, ou seja, coincide com esta mesma sessão de 2026-08-08. O "pendente" acima ficou desactualizado. Não confirmado se `/impeccable critique` foi re-corrido sobre a versão nova.
+
+---
+
+## Actualização — 2026-08-26: Orçamento comercial "Conteúdo & Redes Sociais"
+
+Documento separado da proposta de 10 slides — um orçamento cliente-facing sob a marca **Viralto** (a agência do Dima), não sob a marca OsteoJP. Cobre o âmbito acordado após a conversa inicial: produção mensal de fotos/vídeo + edição + gestão de Instagram/Facebook.
+
+**Ficheiros:**
+- Fonte de verdade: `Clients/OsteoJP/orcamento.html`
+- PDF (1 página A4): `Clients/OsteoJP/orcamento.pdf`
+- Preview live: [Artifact](https://claude.ai/code/artifact/b81b27c7-d819-4d32-bf35-697879941641)
+
+**Âmbito e preços finais:**
+- **Linda-a-Velha (base):** sessão de produção mensal de 3h (fotos+vídeo), edição, gestão de Instagram (8 publicações + 2 Reels/mês) e Facebook, relatório mensal simplificado. €0 de arranque, **€450/mês**.
+- **Castelo Branco (à parte):** sessão de produção de 3h por visita agendada, edição incluída no mesmo fluxo. **€165/visita**, sem custo fixo mensal.
+- Mínimo de 3 meses no pacote base, renovação mensal depois.
+- Pagamento: MB Way ou transferência bancária (sem Multibanco, sem menção a IVA — pedidos explícitos do Dima).
+
+**Decisões de formato:**
+- Sem botões de WhatsApp (removidos a pedido) — contacto por texto simples (telefone/email).
+- Layout comprimido via CSS `@media print` dedicado (root font-size reduzido, grid de 2 colunas para os cartões de Linda-a-Velha/Castelo Branco, `break-inside:avoid`) para caber exactamente numa página A4, sem alterar a versão web/Artifact.
+- Logótipo "Viralto." no cabeçalho aumentado (1.3rem→1.8rem) para ficar proporcional ao resto do cabeçalho.
+
+**Workflow para edições futuras:** o `orcamento.html` fonte, o ficheiro preview do Artifact (scratchpad de sessão) e o PDF gerado (via script Playwright `gen_orcamento_pdf.py`) têm de ficar sempre sincronizados — qualquer alteração de conteúdo aplica-se aos 3 em conjunto, seguida de republish do Artifact (mesmo `file_path`/URL).
