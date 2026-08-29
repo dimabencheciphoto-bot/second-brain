@@ -21,9 +21,6 @@ WHERE summary
 SORT date DESC
 ```
 
-### 01 - Projects/Engine Runs
-Runs diárias do overnight engine: `2026-06-10` a `2026-06-14`, `2026-07-04`.
-
 ### 01 - Projects/Portfolio Casamento
 | Note | Tópico |
 |------|--------|

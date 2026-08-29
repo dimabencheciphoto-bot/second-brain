@@ -49,7 +49,7 @@ Site `tendaseeventos.com` em Next.js 16.2.9 + Tailwind v4. Servidor dev em `http
 2. `RESEND_API_KEY` no `.env.local`
 3. Domain verification no Resend
 
-Ver nota detalhada: [[tendas-eventos-website-2026-06-14]]
+Ver nota detalhada: [[Tendas e Eventos — Site]]
 
 ---
 

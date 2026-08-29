@@ -1,19 +1,21 @@
 ---
 title: "Hot Cache"
-updated: 2026-08-25
+updated: 2026-08-29
 tags: [meta, cache]
 ---
 
 # Recent Context
 
 ## Last Updated
+2026-08-29. Consolidação-piloto das notas de projecto: as 4 notas de sessão `tendas-eventos-website-*` fundidas numa só (`01 - Projects/Tendas e Eventos — Site.md`) com estado + pendentes consolidados + histórico de sessões; 4 originais apagados; wikilink externo corrigido. Se o padrão servir, replicar para Viralto (11 notas soltas) e Content Factory (2). Ver `_meta/log.md`.
+
 2026-08-25 (2ª passagem). Segunda ronda da auditoria de qualidade — 8 itens executados (ver `_meta/log.md` para detalhe completo): `status: activo`→`active` corrigido; frontmatter completado em mais 26 notas (scan fino por tipo de nota, evitando falsos positivos de `created` vs `date`); 3 ficheiros lixo apagados; `Claude Skills Inventory.md` arquivada (desactualizada, framework claude-flow inteiro já não existe); bug de case-sensitivity `Concepts`→`concepts` corrigido em `vault_session.py`; `templates/`→`05 - Templates` renomeada (alinhado com config dos plugins Obsidian, que já apontavam para lá); `VaultTokenSummary` (Task Scheduler) tinha caminho errado e estava desactivada — corrigida e activada; `VaultUGCSummary` criada de raiz, mesmo padrão; aviso de staleness do `hot.md` construído no `/morning` (>7 dias). **Achado importante:** `~/.anthropic_usage.json` não tem calls novas desde 2026-06-14 — o `VaultTokenSummary` vai continuar a reportar "sem calls" até isso ser investigado (fora do âmbito desta auditoria).
 
 ## Key Recent Facts
 - **Estrutura:** PARA (`00 - Inbox` → `01 - Projects` → `02 - Areas` → `03 - Resources` → `04 - Archive`), mais `06 - Fleeting/`, `05 - Templates/` (renomeada de `templates/` 2026-08-25) e `.raw/`.
 - **OsteoJP:** homepage redesenhada ("Percurso do paciente") promovida a `app/page.tsx` 2026-08-08; **deploy ao Vercel confirmado feito** (corrigido 2026-08-25 — a nota anterior aqui estava errada)
 - **Viralto:** plano de publicação de 10 dias reconstruído por plataforma (2026-08-07); **lote-04 e lote-05 de guiões já existem** no repo (9 e 21 Ago) — mas qual direcção de design venceu (C+F blend vs. Opção F pura, ver nota de redesign lote-03) não foi reverificada nesta passagem; as 4 decisões de publicação de 07-08 (TikTok, LinkedIn, guião duplicado) continuam por confirmar; site ao vivo em vercel.app
-- **tendas-eventos:** site Next.js ao vivo, deploy Vercel desactualizado; domínio custom ainda a servir site legado
+- **tendas-eventos:** site Next.js ao vivo (`tendas-eventos.vercel.app`, deploy de 2026-07-30); domínio custom ainda a servir site legado; nota única `[[Tendas e Eventos — Site]]` (4 notas de sessão fundidas 2026-08-29)
 - **Packs Workflows Make PT/BR:** produto digital €97/pack; retomar na Secção 3 (newsletter) + writing-plans
 - **Content Factory:** fases 1, 2, 3a, 3b concluídas; próximo passo = variações A/B + publicação IG
 - **Dashboard Financeiro Pessoal:** aberto — mover transacção Serghei Belous 2026-01-20 para categoria Megane?
@@ -33,4 +35,4 @@ tags: [meta, cache]
 - `index.md` → catálogo completo
 - `02 - Areas/AI Development.md` → estado pipelines
 - `02 - Areas/Viralto - Agência AI.md` → estado agência
-- `01 - Projects/` → 28 notas + 3 subpastas activas
+- `01 - Projects/` → 25 notas + 3 subpastas activas

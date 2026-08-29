@@ -1,12 +1,22 @@
 ---
 title: "Log"
-updated: 2026-08-25
+updated: 2026-08-29
 tags: [meta, log]
 ---
 
 # Log
 
 Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
+
+---
+
+## 2026-08-29 — refactor | Consolidação das notas tendas-eventos (piloto)
+
+- **4 notas de sessão fundidas numa só.** `tendas-eventos-website-2026-06-14.md`, `...-06-14b.md`, `...-07-29.md`, `...-07-30.md` → `01 - Projects/Tendas e Eventos — Site.md`. Nova estrutura: `## Estado actual` + `## Pendentes` (consolidados e deduplicados, 7 itens) + `## Lições a reter` (Satori/`next/og`, deploy Vercel do dir local) + `## Histórico de sessões` (4 subsecções cronológicas com o conteúdo técnico preservado). Frontmatter: `date: 2026-07-30` (última actividade real), `status: developing`, `summary` para a tabela Dataview do `index.md`.
+- **4 originais apagados.**
+- **Wikilink externo corrigido:** `Workspace — Estado Geral 2026-06-14.md` linha 52 `[[tendas-eventos-website-2026-06-14]]` → `[[Tendas e Eventos — Site]]` (era o único link de fora; os outros eram a cadeia interna "Continua em…").
+- **`index.md` não precisou de edição** — a tabela de `01 - Projects` é Dataview `FROM "01 - Projects"` e a nota nova tem `summary`, aparece sozinha.
+- Piloto: se o padrão servir, replicar para Viralto (11 notas soltas) e Content Factory (2).
 
 ---
 
