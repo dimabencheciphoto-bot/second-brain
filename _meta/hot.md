@@ -21,14 +21,14 @@ tags: [meta, cache]
 - **Dashboard Financeiro Pessoal:** aberto — mover transacção Serghei Belous 2026-01-20 para categoria Megane?
 - **Portfolio Casamento:** curadoria concluída — 217 fotos analisadas, 191 aprovadas, portfolio final de 28 fotos seleccionado; próximo passo = edição/exportação e envio de candidaturas
 - **Instagram pessoal (@dimabencheci):** reposicionado para "conteúdo + IA para PMEs", pausado antes do guião do 1º Reel
-- **Automação vault→Obsidian (repo `dima visual claude`, `scripts/vault/`):** `vault_market.py` (via `scripts/market_agent.py`), `vault_tokens.py` (Task Scheduler `VaultTokenSummary`, segundas 09:00) e `vault_ugc.py` (Task Scheduler `VaultUGCSummary`, segundas 09:05) estão todos ligados e activos desde 2026-08-25. `vault_tokens.py` vai reportar "sem calls" até `~/.anthropic_usage.json` voltar a ser actualizado (parado desde 2026-06-14).
+- **Automação vault→Obsidian (repo `dima visual claude`, `scripts/vault/`):** `vault_market.py` (via `scripts/market_agent.py`), `vault_tokens.py` (Task Scheduler `VaultTokenSummary`, segundas 09:00) e `vault_ugc.py` (Task Scheduler `VaultUGCSummary`, segundas 09:05) estão todos ligados e activos desde 2026-08-25. `~/.anthropic_usage.json` esteve parado 2026-06-14 → 2026-08-29 (symlink fantasma, causa raiz nunca isolada); voltou a gravar a 2026-08-29. `MonitoredAnthropic` só regista calls dos scripts deste workspace, não do Claude Code — o aviso de staleness passou a 30 dias e auto-resolve-se em `hot.md`.
 - **Conhecimento LLM-first** (sources/entities/concepts extensos de pesquisa) vive em `Wiki/` no repo `dima visual claude`, não neste vault — ver nota em `_meta/AGENTS.md` §1
 
 ## Active Threads
+- **token_monitor:** teste via alert_staleness (detectado por `vault_tokens.py` em 2026-08-30)
 - Viralto: confirmar qual direcção de design venceu no lote-03/04/05 + fechar as decisões do plano de publicação de 10 dias
 - tendas-eventos: resolver DNS do domínio custom + redeploy
 - Portfolio Casamento: editar/exportar as 28 fotos seleccionadas, enviar candidaturas
-- **token_monitor:** Sem novas calls há 73 dias (última: 2026-06-14). token_monitor pode estar partido. (detectado por `vault_tokens.py` em 2026-08-26)
 - Second Brain: manter `hot.md`/`index.md` actualizados a cada operação — já falhou duas vezes antes (2 meses, depois 17 dias); agora há um aviso automático no `/morning` se `hot.md` passar de 7 dias sem actualizar, mas continua a exigir que alguém aja sobre o aviso
 
 ## Navigation
