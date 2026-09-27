@@ -1,0 +1,16 @@
+#!/bin/sh
+# Corre o vault_lint.py antes de cada commit — bloqueia se houver frontmatter
+# em falta ou links partidos.
+#
+# Este ficheiro é a fonte de verdade (tracked pelo git). O .git/hooks/pre-commit
+# real nunca é tracked pelo git (limitação do próprio git), por isso instala-o
+# a partir daqui depois de clonar o vault:
+#   cp "_meta/hooks/pre-commit" ".git/hooks/pre-commit"
+python "C:\Users\DIMA\Documents\dima visual claude\scripts\vault\vault_lint.py" --check
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "vault_lint encontrou problemas — ver Second Brain/_meta/lint-report-latest.md"
+  echo "(usa 'git commit --no-verify' para saltar esta verificação, se for intencional)"
+  exit 1
+fi
+exit 0

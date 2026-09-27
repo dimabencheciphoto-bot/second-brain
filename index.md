@@ -1,6 +1,6 @@
 ---
 title: "Second Brain Index"
-updated: 2026-08-25
+updated: 2026-09-27
 tags: [meta, index]
 ---
 
@@ -69,27 +69,27 @@ UGC/Business: [[AI-Automation-Agency]]¹, [[UGC Agency Business Model]], [[UGC C
 
 ## 04 - Archive
 
-| Note | Tópico |
-|------|--------|
-| [[Claude Skills Inventory]] | Inventário de skills Claude Code — desactualizado desde 2026-06-09, ver aviso na nota |
-| [[Market Analysis]] | Análise de mercado arquivada |
-| [[Micro-Agência de Conteúdo — Estado 2026-06-11]] | Estado do projecto micro-agência de conteúdo |
-| [[Research - Viralto UGC Agency Setup]] | Setup original Viralto UGC (pré-pivot para AI) |
-| [[UGC Agency Launch]] | Launch da agência UGC |
-| [[_MOC Projects]] | Map of Content — projectos arquivados |
-| [[reciba-ai-fiscal-inbox]] | Nota arquivada sobre recibos/fiscal |
-| [[lint-report-2026-06-09]] | Relatório de lint do vault, 2026-06-09 |
-| `wiki-meta/lint-report-2026-06-08.md`, `...08b.md` | Relatórios de lint anteriores à reorganização de 2026-06-09 |
+*Tabela gerada ao vivo por Dataview a partir do frontmatter (`title`/`tags`) de cada nota.*
+
+```dataview
+TABLE tags AS "Tags"
+FROM "04 - Archive"
+SORT file.name ASC
+```
+
+Relatórios de lint pré-2026-06-09 (ficheiros brutos, não notas): `04 - Archive/wiki-meta/lint-report-2026-06-08.md`, `...08b.md`.
 
 ---
 
 ## 06 - Fleeting
 
-| Note | Tópico |
-|------|--------|
-| [[session-agente-ugc-2026-07-02]] | Sessão de trabalho no agente de prospecção UGC |
-| [[agente-ugc-2026-07-03]] | Continuação do agente de prospecção UGC |
-| [[session-ugc-engine-2026-07-03]] | Sessão engine + UGC |
+*Tabela gerada ao vivo por Dataview a partir do frontmatter (`title`/`date`) de cada nota.*
+
+```dataview
+TABLE date AS "Data"
+FROM "06 - Fleeting"
+SORT date DESC
+```
 
 ---
 

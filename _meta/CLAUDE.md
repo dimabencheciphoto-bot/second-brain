@@ -56,7 +56,7 @@ Para contexto não presente neste projecto:
 
 ## Automação
 
-- **`index.md`** — as tabelas de `01 - Projects` e `02 - Areas` são geradas ao vivo por Dataview (plugin já instalado) a partir do frontmatter de cada nota, não editadas à mão. Requer `summary:` no frontmatter para aparecer na tabela.
+- **`index.md`** — as tabelas de `01 - Projects`, `02 - Areas`, `04 - Archive` e `06 - Fleeting` são geradas ao vivo por Dataview (plugin já instalado) a partir do frontmatter de cada nota, não editadas à mão. Projects/Areas requerem `summary:`; Archive/Fleeting usam só `title`/`date`/`tags`. `03 - Resources` fica manual de propósito (lista curada por categoria — concepts/entities/sources —, não um estado a acompanhar).
 - **Frontmatter obrigatório por pasta** (validado por `scripts/vault/vault_lint.py`, repo `dima visual claude`):
 
   | Pasta | Campos obrigatórios |
@@ -69,7 +69,8 @@ Para contexto não presente neste projecto:
   | `06 - Fleeting/` | `title, date, tags` |
 
   `_meta/`, `05 - Templates/` e `index.md` estão isentos.
-- **Lint:** `python scripts/vault/vault_lint.py` (repo `dima visual claude`) verifica frontmatter em falta e wikilinks partidos, escreve `_meta/lint-report-latest.md`. Corre automaticamente em cada commit deste repo via `.git/hooks/pre-commit` — **hook local, não tracked pelo git**, reinstalar manualmente num clone novo (ver conteúdo em `scripts/vault/vault_lint.py`).
+- **Lint:** `python scripts/vault/vault_lint.py` (repo `dima visual claude`) verifica frontmatter em falta e wikilinks partidos, escreve `_meta/lint-report-latest.md`. Corre automaticamente em cada commit via `.git/hooks/pre-commit`. A fonte de verdade do hook está **tracked** em `_meta/hooks/pre-commit` (o `.git/hooks/pre-commit` real nunca pode ser tracked — limitação do git) — num clone novo: `cp "_meta/hooks/pre-commit" ".git/hooks/pre-commit"`.
+- **Backup:** o plugin Obsidian Git faz auto-commit/push a cada 30 min, mas só enquanto o Obsidian está aberto. Backstop independente: `scripts/vault/vault_git_backup.py` (repo `dima visual claude`), Task Scheduler diário (`VaultGitBackup`, 22:00) — commita e faz push mesmo sem o Obsidian aberto.
 - **Notas geradas automaticamente** (Task Scheduler + hooks, repo `dima visual claude/scripts/vault/`): `vault_tokens.py` (custos Claude, semanal), `vault_ugc.py` (pipeline UGC, semanal), `vault_market.py` (mercado, via `market_agent.py`), `vault_session.py`/`vault_auto_sync.py` (sessões → `06 - Fleeting/`). Todas escrevem frontmatter válido para o schema acima.
 
 ## Quick Reference
