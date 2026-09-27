@@ -16,7 +16,7 @@ key_claims:
 related:
   - "[[Modelos de ganhar dinheiro — série Artifacts (2026-08-31)]]"
   - "[[Instagram Personal Brand - Reposicionamento (2026-07-06)]]"
-  - "[[Content Factory - Fase 1 Ideacao (2026-07-05)]]"
+  - "[[Content Factory - Pipeline]]"
 ---
 
 # Contas Faceless — criar, escolher nicho e monetizar (2026)

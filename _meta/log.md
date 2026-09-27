@@ -1,12 +1,26 @@
 ---
 title: "Log"
-updated: 2026-09-06
+updated: 2026-09-27
 tags: [meta, log]
 ---
 
 # Log
 
 Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
+
+---
+
+## 2026-09-27 — refactor | Consolidação Viralto + Content Factory (replicação do piloto de 2026-08-29) + auditoria de saúde do vault
+
+- **11 notas soltas da Viralto fundidas.** `Viralto - Criação de Contas Sociais (2026-07-07)`, `...Semana 1-2 e posicionamento (2026-07-13)`, `...Animação do logótipo (2026-07-21)`, `...Demo IA Clínica do Marquês (2026-07-26)`, `...Site landing page ao vivo (2026-08-01)`, `...Auditoria final e deploy (2026-08-02)`, `...Orçamento cliente-facing e IVA (2026-08-02)`, `...Redesign lote-03 video-generator (2026-08-04)`, `...Plano publicacao 10 dias e correcao YouTube (2026-08-07)`, `...Recepcionista IA WhatsApp, pivot no-code (2026-08-30)`, `...Posts single IG e publish_post.py (2026-08-31)` → `01 - Projects/Viralto - Execução e Conteúdo.md`. Estrutura igual ao piloto: `## Estado actual` + `## Pendentes` + `## Lições a reter` + `## Histórico de sessões` (11 subsecções cronológicas). `[[Research - Viralto Nicho AI Portugal 2026]]` (nota de research) e `[[Viralto - Agência AI]]` (Area, estratégia/posicionamento) deixados intocados — só as notas de execução datadas foram fundidas.
+- **2 notas do Content Factory fundidas.** `Content Factory - Fase 1 Ideacao (2026-07-05)` + `...Dashboard Kanban (2026-07-06)` → `01 - Projects/Content Factory - Pipeline.md`, mesma estrutura.
+- **13 originais apagados.**
+- **Wikilinks externos corrigidos (3):** `02 - Areas/Viralto - Agência AI.md` (`related`, 4 links → 1), `01 - Projects/Modelos de ganhar dinheiro — série Artifacts (2026-08-31).md` e `03 - Resources/sources/faceless-content-accounts-2026.md` (ambos apontavam a `[[Content Factory - Fase 1 Ideacao (2026-07-05)]]` → `[[Content Factory - Pipeline]]`).
+- `vault_lint.py`: 0 problemas depois da consolidação.
+- **Backstop de backup git** (`scripts/vault/vault_git_backup.py`, repo `dima visual claude`) — cobre o gap do plugin Obsidian Git só correr com a app aberta (aconteceu 2026-08-29 → 2026-09-27 sem ninguém notar). Testado, commitado no repo de código; falta o Dima registar a Task Scheduler `VaultGitBackup` (bloqueado para o Claude por classifier de auto-mode).
+- **`index.md`:** secções `04 - Archive` e `06 - Fleeting` convertidas de tabela estática para Dataview (estavam desactualizadas — Fleeting tinha 2 notas em falta).
+- **Hook pre-commit tornado tracked:** fonte de verdade em `_meta/hooks/pre-commit`, com instrução de instalação num clone novo (o `.git/hooks/pre-commit` real nunca pode ser tracked — limitação do git).
+- 7 links partidos + 2 frontmatter em falta da auditoria inicial desta sessão, todos corrigidos antes desta consolidação (não registados em entrada própria — pequenos, ver `_meta/lint-report-latest.md` histórico).
 
 ---
 

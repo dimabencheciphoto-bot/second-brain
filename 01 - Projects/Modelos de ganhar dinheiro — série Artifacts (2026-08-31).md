@@ -8,7 +8,7 @@ summary: "Série de páginas HTML publicadas (Artifacts claude.ai), uma por perg
 related:
   - "[[faceless-content-accounts-2026]]"
   - "[[Instagram Personal Brand - Reposicionamento (2026-07-06)]]"
-  - "[[Content Factory - Fase 1 Ideacao (2026-07-05)]]"
+  - "[[Content Factory - Pipeline]]"
   - "[[Viralto - Agência AI]]"
 ---
 
