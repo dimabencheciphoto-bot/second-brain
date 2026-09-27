@@ -69,4 +69,4 @@ de 4s abre o browser antes de o Remotion Studio (~20s) estar pronto → refresca
   suprimidos.
 
 ## Relacionado
-- [[Overnight Engine]] (projecto apagado 2026-08-29)
+- Overnight Engine (projecto apagado 2026-08-29, sem nota própria)

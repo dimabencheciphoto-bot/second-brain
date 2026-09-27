@@ -55,7 +55,7 @@ UGC/Business: [[AI-Automation-Agency]]¹, [[UGC Agency Business Model]], [[UGC C
 
 ## 03 - Resources/sources
 
-[[src-ugc-agency-blueprint]], [[src-ugc-cold-email-guide]], [[src-ugc-pricing-2025]], [[src-claude-prompts-10-every-day]], [[src-claude-prompts-50-steal]], [[src-automate-instagram-carousels]], [[ciela-ai-agency-niches-2026]]¹, [[prr-ia-nas-pme-2025]]¹
+[[src-ugc-agency-blueprint]], [[src-ugc-cold-email-guide]], [[src-ugc-pricing-2025]], [[src-claude-prompts-10-every-day]], [[src-claude-prompts-50-steal]], [[src-automate-instagram-carousels]], [[ciela-ai-agency-niches-2026]]¹, [[prr-ia-nas-pme-2025]]¹, [[faceless-content-accounts-2026]]
 
 ¹ Stub — conteúdo completo em `Wiki/sources/` (repo `dima visual claude`).
 

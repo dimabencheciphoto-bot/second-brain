@@ -24,3 +24,12 @@ Projecto em `finance/` (`c:\Users\DIMA\Documents\dima visual claude\finance\`): 
 
 - **Não resolvido**: a transferência `2026-01-20 TRF MB WAY P/ SERGHEI BELOUS -250.00` continua em "Transferências". Já foram movidas 2 outras transferências ao mesmo destinatário (€120 e €250, Jan) para "Megane", mas esta terceira nunca foi confirmada pelo utilizador.
 - Outras ideias de melhoria já discutidas mas não iniciadas: unificar a lista de categorias num módulo partilhado (hoje duplicada entre os dois scripts), alertas automáticos de anomalia no dashboard.
+
+## Actualização 2026-09-06
+
+Dados agora cobrem **Jan–Ago 2026** (405 transacções).
+
+- **8 correcções manuais de categoria** aplicadas ao `transacoes.csv` (transacções de Agosto): TRF Nuno Miguel Vieira da Silva → Viagens; TRF Heorhii Ratsa e TRF Maria Penha Coutinho Eiras → Brilha; Happy Glam e Repsol E1154 → Cigarros; Custo Serviço Internacional e Imposto do Selo → Casa Alugada; Evidente Prática Lda → Saúde.
+- **Novo painel "Explorar por categoria"** no separador *Visão geral* (`gerar_explorador_categoria(df)`): dropdown para escolher uma categoria → mostra 3 stat tiles, um **gráfico de barras por mês** (todos os meses do período, zeros preenchidos) e as transacções dessa categoria agrupadas por mês (mais recente primeiro) com subtotal.
+- Bug de consola corrigido (o `<select>` partilhava a classe `cat-select` com os dropdowns por linha → `TypeError`).
+- **Nada commitado.** Detalhe em [[session-dashboard-financeiro-explorador-categoria-2026-09-06]].

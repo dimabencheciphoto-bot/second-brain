@@ -1,12 +1,36 @@
 ---
 title: "Log"
-updated: 2026-08-29
+updated: 2026-09-06
 tags: [meta, log]
 ---
 
 # Log
 
 Append-only. Novas entradas no TOPO. Nunca editar entradas passadas.
+
+---
+
+## 2026-09-19 — update | Verificação NexLev do nicho faceless ("guarda tudo")
+
+- **`03 - Resources/sources/faceless-content-accounts-2026.md`** — nova secção 10: método NexLev (6 sinais de veredicto), veredito real dos 3 nichos candidatos (Finanças aberto / IA fechado / Estoicismo saturado, com números), lista de nichos novos a bombar Ago-Set 2026 (mega-engenharia, gaming narrado, história militar ES/DE/FR, comics "What If", psicologia estética-sombria, comparação de equipamento) e nota de risco copyright/desmonetização. `key_claims` do frontmatter alargados com os 2 achados principais.
+- **`01 - Projects/Modelos de ganhar dinheiro — série Artifacts (2026-08-31).md`** — acrescentado parágrafo a registar a verificação NexLev e link para a secção 10 da fonte.
+- **Espelho em auto-memória:** `project_money_models_artifact_series.md` actualizado com o mesmo veredicto; `MEMORY.md` actualizado.
+
+## 2026-09-06 — update | Dashboard Financeiro Pessoal ("guarda tudo")
+
+- **Nota de sessão nova:** `06 - Fleeting/session-dashboard-financeiro-explorador-categoria-2026-09-06.md` — 8 correcções manuais de categoria no `transacoes.csv` (transacções de Agosto) + novo painel "Explorar por categoria" em `finance/gerar_dashboard.py` (função `gerar_explorador_categoria(df)`: dropdown → 3 stat tiles + gráfico de barras por mês via `gerar_barras_mensais(mensal_cat)` reindexado + `<details>` por mês) + fix do `TypeError` de consola (classe `cat-select` partilhada). Nada commitado.
+- **Nota de projecto:** `01 - Projects/Dashboard Financeiro Pessoal - Estado (2026-07-25).md` — adicionada secção "Actualização 2026-09-06"; dados agora Jan–Ago 2026.
+- **`_meta/hot.md`:** "Last Updated" + facto de Dashboard Financeiro actualizados; `updated: 2026-09-06`.
+- Espelhado na auto-memória: `project_finance_dashboard.md` (secção "Sessão 2026-09-06") + linha no `MEMORY.md`.
+
+---
+
+## 2026-09-01 — new | Série de Artifacts "modelos de ganhar dinheiro" ("guarda tudo")
+
+- **Nota de projecto nova:** `01 - Projects/Modelos de ganhar dinheiro — série Artifacts (2026-08-31).md` — 5 Artifacts pt-PT publicados (Caça de Oportunidades, Dinheiro Esta Semana, Comprar e Vender, Vender em Digital, Playbook Faceless), URLs, sistema visual partilhado (Fraunces + IBM Plex, tema 3 estados), regra 1-pergunta-1-Artifact.
+- **Nota de fonte nova:** `03 - Resources/sources/faceless-content-accounts-2026.md` — digest de pesquisa web (13 fontes, Ago 2026): critérios e método de escolha de nicho, 6 sinais de concorrência gerível + regra ≥18/25, workflow de produção em lote (2h/5 vídeos) + stack, tabela CPM por nicho, pilha de monetização com números, 11 pilares de tema para finanças pessoais, exemplos de canais faceless + PT/BR, nota YMYL.
+- **`index.md`:** adicionado `[[faceless-content-accounts-2026]]` à lista de sources; a nota de projecto entra sozinha na tabela Dataview (tem `summary`).
+- Espelhado na auto-memória: `project_money_models_artifact_series.md` + linha no `MEMORY.md`.
 
 ---
 
