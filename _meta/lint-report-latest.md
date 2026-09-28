@@ -1,12 +1,12 @@
 ---
 title: "Vault Lint Report"
-updated: 2026-09-27
+updated: 2026-09-28
 tags: [meta, lint, auto-generated]
 ---
 
 # Vault Lint Report
 
-*Gerado automaticamente em 2026-09-27 23:11 por `scripts/vault/vault_lint.py`. Este ficheiro é sobrescrito a cada run — não editar à mão.*
+*Gerado automaticamente em 2026-09-28 00:42 por `scripts/vault/vault_lint.py`. Este ficheiro é sobrescrito a cada run — não editar à mão.*
 
 ## Resumo
 
