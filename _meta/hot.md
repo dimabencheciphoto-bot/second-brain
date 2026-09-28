@@ -29,7 +29,6 @@ tags: [meta, cache]
 - **Conhecimento LLM-first** (sources/entities/concepts extensos de pesquisa) vive em `Wiki/` no repo `dima visual claude`, não neste vault — ver nota em `_meta/AGENTS.md` §1
 
 ## Active Threads
-- **token_monitor:** teste via alert_staleness (detectado por `vault_tokens.py` em 2026-09-27)
 - Viralto: confirmar qual direcção de design venceu no lote-03/04/05 + fechar as decisões do plano de publicação de 10 dias
 - tendas-eventos: resolver DNS do domínio custom + redeploy
 - Portfolio Casamento: editar/exportar as 28 fotos seleccionadas, enviar candidaturas
