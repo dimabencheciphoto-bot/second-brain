@@ -1,6 +1,6 @@
 ---
 title: "Content Factory — Pipeline"
-date: 2026-07-06
+date: 2026-09-29
 tags: [content-factory, overnight-engine, instagram, ai-automation, dashboard]
 status: developing
 summary: "Pipeline de conteúdo pessoal (ideação → raw cut → legendas → B-roll) + dashboard Kanban"
@@ -19,8 +19,19 @@ Dashboard Kanban (`content_factory/dashboard/`, porta 7843, sem framework) — 5
 
 ## Pendentes
 
-- Roadmap de fases seguintes: gravação em lote → `/raw-cut` → edição Remotion (legendas, B-roll, variações A/B) → publicação Instagram via Meta Graph API. Próximo passo real depende de o Dima já ter gravado com os 10 briefs da Fase 1.
 - `clip_001` em `content_factory/data/publish_log.json` está marcado PUBLICADO mas nunca teve a fase final renderizada (só existe `captioned/`, não `final/`) — **dado de teste intencional, confirmado 2× pelo Dima para deixar como está. Não sugerir corrigir.**
+- **2026-09-29:** branch `worktree-content-factory-faceless` completo (15/15 tasks + fix pós-revisão, 240/240 testes) mas **por fazer merge**: checkout partilhado ocupado com WIP do Viralto sem relação, e repositório sem remoto git configurado. Ver secção de sessão abaixo.
+- `content_factory/data/broll_library/` continua vazia — pré-requisito operacional antes de `run_daily.py` correr a sério (adicionar clips de stock).
+
+## Pivot 2026-09-29 — automação "faceless" diária
+
+O pipeline evoluiu do roadmap original (gravação humana em lote) para um pivot totalmente automatizado, sem gravação: **tendência → brief → síntese "faceless"** (TTS + B-roll + Remotion, sem câmara) **→ fila de aprovação no dashboard → publicação**. Plano completo em `docs/superpowers/plans/2026-09-29-content-factory-faceless-automation.md`, spec em `Docs/superpowers/specs/2026-09-29-content-factory-faceless-automation-design.md`.
+
+Implementado via subagent-driven-development (15 tasks, fresh subagent + revisor por task + revisão final ao branch inteiro por um modelo mais capaz). Módulos novos: `trend_finder.py`, `tts.py`, `broll_selector.py`, `script_writer.py`, `synthesize_faceless.py` (orquestra os anteriores + composição Remotion `SynthClip`, gera variantes A/B), `run_daily.py` (orquestrador, alvo Task Scheduler), + colunas novas no dashboard (`A_AGUARDAR_APROVACAO`) com aprovação manual antes de publicar.
+
+**Revisão final** apanhou 2 bugs Critical que tinham passado por todas as 15 revisões por task, porque cada lado testava a sua própria construção artificial dos ficheiros em vez da cadeia real: `publish()` (herdado do pipeline antigo de clips) nunca encontrava o vídeo B do pipeline diário (procurava na pasta errada), e a chave gravada no log de publicação nunca batia com a que o dashboard procura (risco real de publicar o mesmo conteúdo duas vezes a cada clique em "Aprovar"). Corrigido num único fix dispatch + re-review focada, 240/240 testes a passar.
+
+Branch e worktree ficam intactos em `.claude/worktrees/content-factory-faceless/`, por fazer merge para `main` — decisão adiada para não mexer no WIP do Viralto no checkout partilhado nem exigir configurar um remoto git às pressas.
 
 ## Histórico de sessões
 
