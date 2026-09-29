@@ -6,7 +6,7 @@ tags: [meta, lint, auto-generated]
 
 # Vault Lint Report
 
-*Gerado automaticamente em 2026-09-29 05:47 por `scripts/vault/vault_lint.py`. Este ficheiro é sobrescrito a cada run — não editar à mão.*
+*Gerado automaticamente em 2026-09-29 06:17 por `scripts/vault/vault_lint.py`. Este ficheiro é sobrescrito a cada run — não editar à mão.*
 
 ## Resumo
 
